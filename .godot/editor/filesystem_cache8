@@ -1,0 +1,1489 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1707839024
+::res://My-sprites/::1706022954
+platform-1.png::CompressedTexture2D::6889164629869278859::1706022738::1706022954::1::::<><>::
+::res://Scenes/::1707236921
+::res://Scenes/Entities/::1707239377
+player.tscn::PackedScene::1480073456408657467::1707239377::0::1::::<><>::res://Scripts/Player/Player.gd<>uid://fsd6mdq6p7ws::::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 04.png<>uid://uudlh4xqvpaa::::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 06.png<>uid://dg8ap0q137wf6::::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 01.png<>uid://cfr773v554w18::::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 02.png<>uid://1ycp5johrhqr::::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 03.png<>uid://dxc45fqacivwd::::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 05.png<>uid://bel0enkd3shiy::::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/04-Fall/Fall 01.png<>uid://d1v380sljjkfc::::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 01.png<>uid://bc8ci1xbpdqav::::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 02.png<>uid://cnbh7tlucsgso::::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 03.png<>uid://cfdk08xkpiyvr::::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 01.png<>uid://dlcaava8hyenn::::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 02.png<>uid://cgs746xoucpn7::::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 03.png<>uid://bj4ogws2w1oh3::::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 04.png<>uid://cnm57k806m6qe::::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 05.png
+::res://Scenes/Interactable/::1707239377
+checkpoint.tscn::PackedScene::2621927232897157567::1707239377::0::1::::<><>::res://Scripts/Interactable/checkpoint.gd<>uid://b3t27bg8hlqcs::::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Objects/Flag/Flag 04.png<>uid://cy8h6x043ly4h::::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Objects/Flag/Flag 02.png<>uid://chk6g5so0is3x::::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Objects/Flag/Flag 03.png<>uid://s24j8x7dnms3::::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Objects/Flag/Flag 05.png<>uid://d0hwqsvrospfl::::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Objects/Flag/Flag 06.png<>uid://c3n27bdwtvo2t::::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Objects/Flag/Flag 07.png<>uid://bc165gpvekdlc::::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Objects/Flag/Flag 08.png<>uid://dk22nyyioo11j::::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Objects/Flag/Flag 09.png<>uid://dgn74nc1txki0::::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Objects/Flag/Flag 01.png
+::res://Scenes/WorldScenes/::1707239377
+level_one.tscn::PackedScene::7001008532519923791::1707239377::0::1::::<><>::uid://bu2hpmi8l65ku::::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Background/BG Image.png<>uid://cal4niqa70ned::::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Terrain/Terrain (32x32).png<>uid://vc7uggj28hu6::::res://Scenes/Entities/player.tscn<>uid://d33fecohv75l6::::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Background/Small Cloud 1.png<>uid://p617qg5br0cm::::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Background/Small Cloud 3.png<>uid://dg3iddnggcl5l::::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Background/Additional Water.png<>uid://dnrufonw0cw8w::::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Barrel/Idle/1.png<>uid://bdmc011n88j8b::::res://Scenes/Interactable/checkpoint.tscn
+::res://Scripts/::1707238399
+::res://Scripts/Core/::1707238848
+GameManager.gd::GDScript::-1::1707238848::0::1::::<>Node<>::
+::res://Scripts/Interactable/::1707239012
+checkpoint.gd::GDScript::-1::1707239012::0::1::::Checkpoint<>Node2D<>::
+::res://Scripts/Player/::1707239375
+Player.gd::GDScript::-1::1707239375::0::1::::Player<>CharacterBody2D<>::
+::res://sptites/::1706021484
+::res://sptites/Treasure Hunters/::1706021311
+::res://sptites/Treasure Hunters/Captain Clown Nose/::1706021281
+::res://sptites/Treasure Hunters/Captain Clown Nose/Aseprite/::1706021281
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/::1706021282
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/::1706021286
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/::1706021284
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/09-Idle Sword/::1706021511
+Idle Sword 01.png::CompressedTexture2D::4049429779230081888::1706021283::1706021511::1::::<><>::
+Idle Sword 02.png::CompressedTexture2D::5972810449312765193::1706021282::1706021511::1::::<><>::
+Idle Sword 03.png::CompressedTexture2D::4120442761510798660::1706021282::1706021511::1::::<><>::
+Idle Sword 04.png::CompressedTexture2D::2088135946523286488::1706021282::1706021511::1::::<><>::
+Idle Sword 05.png::CompressedTexture2D::5673755080095723625::1706021282::1706021511::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword/::1706021511
+Run Sword 01.png::CompressedTexture2D::118303628445987795::1706021283::1706021511::1::::<><>::
+Run Sword 02.png::CompressedTexture2D::8575492396114709718::1706021283::1706021511::1::::<><>::
+Run Sword 03.png::CompressedTexture2D::3139992430091423693::1706021283::1706021511::1::::<><>::
+Run Sword 04.png::CompressedTexture2D::1368432088530183167::1706021283::1706021511::1::::<><>::
+Run Sword 05.png::CompressedTexture2D::3386052850534005898::1706021283::1706021511::1::::<><>::
+Run Sword 06.png::CompressedTexture2D::3175798318265604498::1706021283::1706021511::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/11-Jump Sword/::1706021511
+Jump Sword 01.png::CompressedTexture2D::3634785440046624792::1706021284::1706021511::1::::<><>::
+Jump Sword 02.png::CompressedTexture2D::7267318152399268568::1706021284::1706021511::1::::<><>::
+Jump Sword 03.png::CompressedTexture2D::8741197643243532802::1706021284::1706021511::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/12-Fall Sword/::1706021511
+Fall Sword 01.png::CompressedTexture2D::1068790669206055086::1706021284::1706021511::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/13-Ground Sword/::1706021511
+Ground Sword 01.png::CompressedTexture2D::7935447491716629039::1706021283::1706021511::1::::<><>::
+Ground Sword 02.png::CompressedTexture2D::2214276856494738432::1706021283::1706021511::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/14-Hit Sword/::1706021511
+Hit Sword 01.png::CompressedTexture2D::274724511361270022::1706021283::1706021511::1::::<><>::
+Hit Sword 02.png::CompressedTexture2D::4037298292021367237::1706021283::1706021511::1::::<><>::
+Hit Sword 03.png::CompressedTexture2D::6671953168982441786::1706021283::1706021511::1::::<><>::
+Hit Sword 04.png::CompressedTexture2D::641965953916492543::1706021283::1706021511::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/15-Attack 1/::1706021511
+Attack 1 01.png::CompressedTexture2D::1700303875390459096::1706021284::1706021511::1::::<><>::
+Attack 1 02.png::CompressedTexture2D::5424117524622288151::1706021284::1706021511::1::::<><>::
+Attack 1 03.png::CompressedTexture2D::3479634330199696487::1706021284::1706021511::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/16-Attack 2/::1706021511
+Attack 2 01.png::CompressedTexture2D::6556162798255394322::1706021283::1706021511::1::::<><>::
+Attack 2 02.png::CompressedTexture2D::4434051027954214284::1706021283::1706021511::1::::<><>::
+Attack 2 03.png::CompressedTexture2D::8754629559250016363::1706021283::1706021511::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/17-Attack 3/::1706021511
+Attack 3 01.png::CompressedTexture2D::6171372220576748930::1706021284::1706021511::1::::<><>::
+Attack 3 02.png::CompressedTexture2D::539936496034354708::1706021284::1706021511::1::::<><>::
+Attack 3 03.png::CompressedTexture2D::7950805137224819285::1706021283::1706021511::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/18-Air Attack 1/::1706021511
+Air Attack 1 01.png::CompressedTexture2D::3662911843293571498::1706021284::1706021511::1::::<><>::
+Air Attack 1 02.png::CompressedTexture2D::6621721412490606885::1706021284::1706021511::1::::<><>::
+Air Attack 1 03.png::CompressedTexture2D::5028841703573906897::1706021284::1706021511::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/19-Air Attack 2/::1706021511
+Air Attack 2 01.png::CompressedTexture2D::3584927920837643462::1706021283::1706021511::1::::<><>::
+Air Attack 2 02.png::CompressedTexture2D::5027386737445271450::1706021283::1706021511::1::::<><>::
+Air Attack 2 03.png::CompressedTexture2D::479503031344697868::1706021283::1706021511::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/20-Throw Sword/::1706021511
+Throw Sword 01.png::CompressedTexture2D::2434617631802264894::1706021284::1706021511::1::::<><>::
+Throw Sword 02.png::CompressedTexture2D::7979294217443540249::1706021284::1706021511::1::::<><>::
+Throw Sword 03.png::CompressedTexture2D::2696989380000143664::1706021284::1706021510::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/::1706021286
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/::1706021510
+Idle 01.png::CompressedTexture2D::7648547704720689569::1706021286::1706021510::1::::<><>::
+Idle 02.png::CompressedTexture2D::5160881601067879477::1706021286::1706021510::1::::<><>::
+Idle 03.png::CompressedTexture2D::1874604811830254149::1706021286::1706021510::1::::<><>::
+Idle 04.png::CompressedTexture2D::388341164036224550::1706021286::1706021510::1::::<><>::
+Idle 05.png::CompressedTexture2D::8779548864206175395::1706021286::1706021510::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/::1706021510
+Run 01.png::CompressedTexture2D::5130632302889628907::1706021285::1706021510::1::::<><>::
+Run 02.png::CompressedTexture2D::7935469191105803687::1706021285::1706021510::1::::<><>::
+Run 03.png::CompressedTexture2D::5233129624996516326::1706021285::1706021510::1::::<><>::
+Run 04.png::CompressedTexture2D::3078849168542662738::1706021285::1706021510::1::::<><>::
+Run 05.png::CompressedTexture2D::5711948100307158224::1706021285::1706021510::1::::<><>::
+Run 06.png::CompressedTexture2D::1445266636083114372::1706021285::1706021510::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/::1706021510
+Jump 01.png::CompressedTexture2D::9029284266902138252::1706021285::1706021510::1::::<><>::
+Jump 02.png::CompressedTexture2D::2595059958393132733::1706021285::1706021510::1::::<><>::
+Jump 03.png::CompressedTexture2D::5687843892637602298::1706021285::1706021510::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/04-Fall/::1706021510
+Fall 01.png::CompressedTexture2D::2691409979960704884::1706021286::1706021510::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/05-Ground/::1706021510
+Ground 01.png::CompressedTexture2D::7306300262929862970::1706021286::1706021510::1::::<><>::
+Ground 02.png::CompressedTexture2D::2304173946552707640::1706021286::1706021510::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/06-Hit/::1706021511
+Hit 01.png::CompressedTexture2D::2121019450881442115::1706021286::1706021511::1::::<><>::
+Hit 02.png::CompressedTexture2D::7725957212819287906::1706021286::1706021511::1::::<><>::
+Hit 03.png::CompressedTexture2D::6585340538607693113::1706021286::1706021511::1::::<><>::
+Hit 04.png::CompressedTexture2D::4082728302536087475::1706021286::1706021511::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/07-Dead Hit/::1706021511
+Dead Hit 01.png::CompressedTexture2D::5642935779237153772::1706021286::1706021511::1::::<><>::
+Dead Hit 02.png::CompressedTexture2D::4851886212242939096::1706021286::1706021511::1::::<><>::
+Dead Hit 03.png::CompressedTexture2D::7808996165738126727::1706021286::1706021511::1::::<><>::
+Dead Hit 04.png::CompressedTexture2D::8718378286564246705::1706021286::1706021511::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/08-Dead Ground/::1706021511
+Dead Ground 01.png::CompressedTexture2D::4365341120566727532::1706021286::1706021511::1::::<><>::
+Dead Ground 02.png::CompressedTexture2D::898816072349829953::1706021286::1706021511::1::::<><>::
+Dead Ground 03.png::CompressedTexture2D::4008719145223994036::1706021286::1706021510::1::::<><>::
+Dead Ground 04.png::CompressedTexture2D::8856136409203831343::1706021286::1706021510::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Sword/::1706021285
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Sword/21-Sword Idle/::1706021512
+Sword Idle 01.png::CompressedTexture2D::6752496854441388511::1706021284::1706021510::1::::<><>::
+Sword Idle 02.png::CompressedTexture2D::8824135216688395715::1706021284::1706021510::1::::<><>::
+Sword Idle 03.png::CompressedTexture2D::4051350024202450992::1706021284::1706021510::1::::<><>::
+Sword Idle 04.png::CompressedTexture2D::1139370305608076377::1706021285::1706021510::1::::<><>::
+Sword Idle 05.png::CompressedTexture2D::5335223938401421678::1706021284::1706021510::1::::<><>::
+Sword Idle 06.png::CompressedTexture2D::3060963395064892443::1706021285::1706021510::1::::<><>::
+Sword Idle 07.png::CompressedTexture2D::2955632091539073461::1706021285::1706021510::1::::<><>::
+Sword Idle 08.png::CompressedTexture2D::6555054727656581922::1706021284::1706021512::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Sword/22-Sword Spinning/::1706021512
+Sword Spinning 01.png::CompressedTexture2D::5683960015671444099::1706021285::1706021512::1::::<><>::
+Sword Spinning 02.png::CompressedTexture2D::2803011547785578430::1706021285::1706021512::1::::<><>::
+Sword Spinning 03.png::CompressedTexture2D::4809243813405354452::1706021285::1706021512::1::::<><>::
+Sword Spinning 04.png::CompressedTexture2D::1242692722145842747::1706021285::1706021512::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Sword/23-Sword Embedded/::1706021512
+Sword Embedded 01.png::CompressedTexture2D::509206288046852495::1706021285::1706021512::1::::<><>::
+Sword Embedded 02.png::CompressedTexture2D::9137017589287342063::1706021285::1706021512::1::::<><>::
+Sword Embedded 03.png::CompressedTexture2D::8078073990591084691::1706021285::1706021512::1::::<><>::
+Sword Embedded 04.png::CompressedTexture2D::557593829446470271::1706021285::1706021512::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Sword Effects/::1706021287
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Sword Effects/24-Attack 1/::1706021512
+Attack 1 01.png::CompressedTexture2D::1584306802194991711::1706021287::1706021512::1::::<><>::
+Attack 1 02.png::CompressedTexture2D::1096962092174955753::1706021287::1706021512::1::::<><>::
+Attack 1 03.png::CompressedTexture2D::3005757261302916676::1706021287::1706021512::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Sword Effects/25-Attack 2/::1706021512
+Attack 2 01.png::CompressedTexture2D::8811567674494533685::1706021287::1706021512::1::::<><>::
+Attack 2 02.png::CompressedTexture2D::8697313248989936737::1706021287::1706021512::1::::<><>::
+Attack 2 03.png::CompressedTexture2D::2620886118676568292::1706021287::1706021512::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Sword Effects/26-Attack 3/::1706021512
+Attack 3 01.png::CompressedTexture2D::4572788059111495403::1706021287::1706021512::1::::<><>::
+Attack 3 02.png::CompressedTexture2D::7082540118347660129::1706021287::1706021512::1::::<><>::
+Attack 3 03.png::CompressedTexture2D::2666213674744896081::1706021287::1706021512::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Sword Effects/27-Air Attack 1/::1706021513
+Air Attack 1 01.png::CompressedTexture2D::3784543741988249640::1706021287::1706021512::1::::<><>::
+Air Attack 1 02.png::CompressedTexture2D::94499293018047675::1706021287::1706021513::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Sword Effects/28-Air Attack 2/::1706021513
+Air Attack 2 01.png::CompressedTexture2D::2041977808647618875::1706021286::1706021513::1::::<><>::
+Air Attack 2 02.png::CompressedTexture2D::3471915880532520950::1706021287::1706021513::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Dialogue/::1706021282
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Dialogue/Dead/::1706021513
+Dead In 01.png::CompressedTexture2D::5220716815785935543::1706021282::1706021513::1::::<><>::
+Dead In 02.png::CompressedTexture2D::7966786794780148853::1706021282::1706021513::1::::<><>::
+Dead In 03.png::CompressedTexture2D::1307533017242634204::1706021282::1706021512::1::::<><>::
+Dead Out 01.png::CompressedTexture2D::6558535134743801589::1706021282::1706021512::1::::<><>::
+Dead Out 02.png::CompressedTexture2D::7705163799169305537::1706021282::1706021512::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Dialogue/Exclamation/::1706021513
+Exclamation In 01.png::CompressedTexture2D::7874236384351468028::1706021282::1706021512::1::::<><>::
+Exclamation In 02.png::CompressedTexture2D::5222723390979579283::1706021282::1706021512::1::::<><>::
+Exclamation In 03.png::CompressedTexture2D::5103269072976757582::1706021282::1706021512::1::::<><>::
+Exclamation Out 01.png::CompressedTexture2D::6917357133472570030::1706021282::1706021512::1::::<><>::
+Exclamation Out 02.png::CompressedTexture2D::2766632743843891160::1706021282::1706021512::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Dialogue/Interrogation/::1706021512
+Interrogation In 01.png::CompressedTexture2D::9027796583810385411::1706021282::1706021512::1::::<><>::
+Interrogation In 02.png::CompressedTexture2D::5377375238205455768::1706021282::1706021512::1::::<><>::
+Interrogation In 03.png::CompressedTexture2D::284008388699635852::1706021282::1706021512::1::::<><>::
+Interrogation Out 01.png::CompressedTexture2D::4425839933357163357::1706021282::1706021512::1::::<><>::
+Interrogation Out 02.png::CompressedTexture2D::5272075287379609848::1706021282::1706021512::1::::<><>::
+::res://sptites/Treasure Hunters/Captain Clown Nose/Sprites/Dust Particles/::1706021512
+Fall 01.png::CompressedTexture2D::3411539370327731268::1706021281::1706021512::1::::<><>::
+Fall 02.png::CompressedTexture2D::3703092186826670885::1706021282::1706021512::1::::<><>::
+Fall 03.png::CompressedTexture2D::4523293966338276974::1706021281::1706021512::1::::<><>::
+Fall 04.png::CompressedTexture2D::1824313525584612650::1706021281::1706021512::1::::<><>::
+Fall 05.png::CompressedTexture2D::1590232087227655651::1706021281::1706021512::1::::<><>::
+Jump 01.png::CompressedTexture2D::2517993886926989551::1706021281::1706021512::1::::<><>::
+Jump 02.png::CompressedTexture2D::5135683256308886067::1706021281::1706021511::1::::<><>::
+Jump 03.png::CompressedTexture2D::5959027836969192293::1706021281::1706021511::1::::<><>::
+Jump 04.png::CompressedTexture2D::5941134876880310374::1706021281::1706021511::1::::<><>::
+Jump 05.png::CompressedTexture2D::2503932828269321271::1706021281::1706021511::1::::<><>::
+Jump 06.png::CompressedTexture2D::2988357019946896299::1706021281::1706021511::1::::<><>::
+Run 01.png::CompressedTexture2D::5110867661831442602::1706021281::1706021511::1::::<><>::
+Run 02.png::CompressedTexture2D::8182112042773654912::1706021281::1706021511::1::::<><>::
+Run 03.png::CompressedTexture2D::1583458864260237155::1706021281::1706021511::1::::<><>::
+Run 04.png::CompressedTexture2D::2680843494035366840::1706021281::1706021511::1::::<><>::
+Run 05.png::CompressedTexture2D::2565613152371894835::1706021281::1706021511::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/::1706021312
+::res://sptites/Treasure Hunters/Merchant Ship/Aseprite/::1706021311
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/::1706021315
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Barrel/::1706021314
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Barrel/Destroyed/::1706021512
+1.png::CompressedTexture2D::8514707261045558358::1706021314::1706021511::1::::<><>::
+2.png::CompressedTexture2D::7739294981305636948::1706021314::1706021511::1::::<><>::
+3.png::CompressedTexture2D::4375420594807048764::1706021314::1706021511::1::::<><>::
+4.png::CompressedTexture2D::7272410712578331173::1706021314::1706021511::1::::<><>::
+5.png::CompressedTexture2D::513089087228703053::1706021314::1706021512::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Barrel/Hit/::1706021512
+1.png::CompressedTexture2D::8770692808333631998::1706021314::1706021512::1::::<><>::
+2.png::CompressedTexture2D::4432408722419577373::1706021314::1706021512::1::::<><>::
+3.png::CompressedTexture2D::7856639997917018913::1706021314::1706021512::1::::<><>::
+4.png::CompressedTexture2D::8298207653716611040::1706021314::1706021512::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Barrel/Idle/::1706021512
+1.png::CompressedTexture2D::8108035465460046448::1706021314::1706021512::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Box/::1706021312
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Box/Destroyed/::1706021512
+1.png::CompressedTexture2D::1147575710067308745::1706021312::1706021512::1::::<><>::
+2.png::CompressedTexture2D::7724135539552915371::1706021312::1706021512::1::::<><>::
+3.png::CompressedTexture2D::6524365665617810925::1706021312::1706021512::1::::<><>::
+4.png::CompressedTexture2D::2958261265986309558::1706021312::1706021512::1::::<><>::
+5.png::CompressedTexture2D::4459031005791416744::1706021312::1706021512::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Box/Hit/::1706021512
+1.png::CompressedTexture2D::1846875180001602221::1706021312::1706021512::1::::<><>::
+2.png::CompressedTexture2D::3674181262294574600::1706021312::1706021512::1::::<><>::
+3.png::CompressedTexture2D::6833517086357753126::1706021312::1706021512::1::::<><>::
+4.png::CompressedTexture2D::7725117471808082412::1706021312::1706021512::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Box/Idle/::1706021512
+1.png::CompressedTexture2D::7865214143306739451::1706021312::1706021512::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Chest/::1706021314
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Chest/Idle/::1706021512
+1.png::CompressedTexture2D::6154139342462899611::1706021314::1706021512::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Chest/Padlock/::1706021512
+1.png::CompressedTexture2D::5087633596610846624::1706021314::1706021512::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Chest/Unlocked/::1706021512
+1.png::CompressedTexture2D::4771174751155187749::1706021315::1706021512::1::::<><>::
+2.png::CompressedTexture2D::871069928818800544::1706021315::1706021508::1::::<><>::
+3.png::CompressedTexture2D::642733490348374202::1706021315::1706021508::1::::<><>::
+4.png::CompressedTexture2D::1567542767654278536::1706021315::1706021508::1::::<><>::
+5.png::CompressedTexture2D::9096424162402349969::1706021315::1706021508::1::::<><>::
+6.png::CompressedTexture2D::7028807119030729129::1706021315::1706021508::1::::<><>::
+7.png::CompressedTexture2D::4696282070265008821::1706021315::1706021508::1::::<><>::
+8.png::CompressedTexture2D::2048998708503091008::1706021315::1706021508::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Chest Key/::1706021312
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Chest Key/Effect/::1706021508
+1.png::CompressedTexture2D::3630456936050494547::1706021313::1706021508::1::::<><>::
+2.png::CompressedTexture2D::5435737619943244485::1706021312::1706021508::1::::<><>::
+3.png::CompressedTexture2D::3167799218152917463::1706021313::1706021508::1::::<><>::
+4.png::CompressedTexture2D::1883633146153940834::1706021312::1706021508::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Chest Key/Idle/::1706021508
+1.png::CompressedTexture2D::8879650915331073709::1706021312::1706021508::1::::<><>::
+2.png::CompressedTexture2D::7094808633108001551::1706021312::1706021508::1::::<><>::
+3.png::CompressedTexture2D::1052302417745121568::1706021312::1706021508::1::::<><>::
+4.png::CompressedTexture2D::9175974427218474552::1706021312::1706021508::1::::<><>::
+5.png::CompressedTexture2D::2038076022894727691::1706021312::1706021508::1::::<><>::
+6.png::CompressedTexture2D::4400572778084431843::1706021312::1706021508::1::::<><>::
+7.png::CompressedTexture2D::7035120634040669637::1706021312::1706021508::1::::<><>::
+8.png::CompressedTexture2D::1424948139447337811::1706021312::1706021508::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Ship/::1706021316
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Ship/Anchor/::1706021509
+1.png::CompressedTexture2D::2438395335324073608::1706021316::1706021509::1::::<><>::
+2.png::CompressedTexture2D::7603139944840093427::1706021316::1706021509::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Ship/Destroyed/::1706021509
+1.png::CompressedTexture2D::2992148543768101597::1706021316::1706021509::1::::<><>::
+2.png::CompressedTexture2D::1997555439579860583::1706021316::1706021509::1::::<><>::
+3.png::CompressedTexture2D::4425449677873092394::1706021316::1706021509::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Ship/New Folder/::1592227354
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Ship/Sail/::1706021315
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Ship/Sail/No Wind/::1706021509
+1.png::CompressedTexture2D::4407157631237538674::1706021316::1706021509::1::::<><>::
+2.png::CompressedTexture2D::1233037601524400469::1706021316::1706021509::1::::<><>::
+3.png::CompressedTexture2D::4138256909622303131::1706021316::1706021509::1::::<><>::
+4.png::CompressedTexture2D::4612352272244224435::1706021315::1706021509::1::::<><>::
+5.png::CompressedTexture2D::667789389351541846::1706021316::1706021509::1::::<><>::
+6.png::CompressedTexture2D::1466567032699332721::1706021316::1706021509::1::::<><>::
+7.png::CompressedTexture2D::7191350070007821456::1706021316::1706021509::1::::<><>::
+8.png::CompressedTexture2D::2763109512198542543::1706021315::1706021509::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Ship/Sail/Transition to No Wind/::1706021509
+1.png::CompressedTexture2D::7285972917735120269::1706021315::1706021509::1::::<><>::
+2.png::CompressedTexture2D::6987422638208213532::1706021315::1706021509::1::::<><>::
+3.png::CompressedTexture2D::2918427723592123883::1706021315::1706021509::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Ship/Sail/Transition to Wind/::1706021509
+1.png::CompressedTexture2D::3727747049394389147::1706021315::1706021509::1::::<><>::
+2.png::CompressedTexture2D::8207746729810518251::1706021315::1706021508::1::::<><>::
+3.png::CompressedTexture2D::153676353935419810::1706021315::1706021508::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Ship/Sail/Wind/::1706021508
+1.png::CompressedTexture2D::4478295759697531185::1706021315::1706021508::1::::<><>::
+2.png::CompressedTexture2D::330673097115433203::1706021315::1706021508::1::::<><>::
+3.png::CompressedTexture2D::4610307179102335770::1706021315::1706021508::1::::<><>::
+4.png::CompressedTexture2D::3484721199412380618::1706021315::1706021508::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Ship/Ship/::1706021316
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Ship/Ship/Hit/::1706021508
+1.png::CompressedTexture2D::8644201266064972131::1706021316::1706021508::1::::<><>::
+2.png::CompressedTexture2D::7676598221257580566::1706021316::1706021508::1::::<><>::
+3.png::CompressedTexture2D::5035419318660647396::1706021316::1706021508::1::::<><>::
+4.png::CompressedTexture2D::5413009252147066370::1706021316::1706021508::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Ship/Ship/Idle/::1706021508
+1.png::CompressedTexture2D::9215807024161313971::1706021316::1706021508::1::::<><>::
+2.png::CompressedTexture2D::1970300509204422226::1706021316::1706021508::1::::<><>::
+3.png::CompressedTexture2D::1712623925311940067::1706021316::1706021508::1::::<><>::
+4.png::CompressedTexture2D::4617298939555095994::1706021316::1706021508::1::::<><>::
+5.png::CompressedTexture2D::7016218074416022156::1706021316::1706021508::1::::<><>::
+6.png::CompressedTexture2D::4180705490393875512::1706021316::1706021508::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Water/::1706021314
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Water/Reflexes 1/::1706021508
+1.png::CompressedTexture2D::8831687647310058465::1706021314::1706021507::1::::<><>::
+2.png::CompressedTexture2D::703583573666969812::1706021313::1706021508::1::::<><>::
+3.png::CompressedTexture2D::7965512609988583559::1706021314::1706021507::1::::<><>::
+4.png::CompressedTexture2D::3961397926396447034::1706021313::1706021507::1::::<><>::
+5.png::CompressedTexture2D::2737838970118925800::1706021313::1706021508::1::::<><>::
+6.png::CompressedTexture2D::2607531938346949218::1706021313::1706021508::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Water/Reflexes 2/::1706021508
+1.png::CompressedTexture2D::6580688646261881991::1706021313::1706021508::1::::<><>::
+2.png::CompressedTexture2D::5625225312962836598::1706021313::1706021508::1::::<><>::
+3.png::CompressedTexture2D::8974815625813572573::1706021313::1706021508::1::::<><>::
+4.png::CompressedTexture2D::3692021381754986277::1706021313::1706021508::1::::<><>::
+5.png::CompressedTexture2D::5834665546049557709::1706021313::1706021508::1::::<><>::
+6.png::CompressedTexture2D::5543079867957402720::1706021313::1706021508::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Water/Water/::1706021313
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Water/Water/Bottom/::1706021508
+1.png::CompressedTexture2D::7391591234411546643::1706021313::1706021508::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Water/Water/Top/::1706021508
+1.png::CompressedTexture2D::4512827275947802612::1706021313::1706021508::1::::<><>::
+2.png::CompressedTexture2D::487146444770579904::1706021313::1706021508::1::::<><>::
+3.png::CompressedTexture2D::7846448625027278013::1706021313::1706021508::1::::<><>::
+4.png::CompressedTexture2D::5179398086680428693::1706021313::1706021508::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Water/Water Splash 1/::1706021508
+1.png::CompressedTexture2D::8560968200063147618::1706021314::1706021508::1::::<><>::
+2.png::CompressedTexture2D::6884443610301756462::1706021314::1706021508::1::::<><>::
+3.png::CompressedTexture2D::8277705931701523606::1706021314::1706021508::1::::<><>::
+4.png::CompressedTexture2D::8331108040253226621::1706021314::1706021508::1::::<><>::
+5.png::CompressedTexture2D::6756667781111803426::1706021314::1706021508::1::::<><>::
+::res://sptites/Treasure Hunters/Merchant Ship/Sprites/Water/Water Splash 2/::1706021510
+1.png::CompressedTexture2D::4175183722296714854::1706021313::1706021508::1::::<><>::
+2.png::CompressedTexture2D::3294363692838843518::1706021313::1706021510::1::::<><>::
+3.png::CompressedTexture2D::463951666069633680::1706021313::1706021510::1::::<><>::
+4.png::CompressedTexture2D::4776740139503775027::1706021313::1706021510::1::::<><>::
+::res://sptites/Treasure Hunters/Palm Tree Island/::1706021256
+::res://sptites/Treasure Hunters/Palm Tree Island/Aseprite/::1706021255
+::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/::1706021259
+::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Back Palm Trees/::1706021510
+Back Palm Tree Left 01.png::CompressedTexture2D::9150622679076887680::1706021259::1706021510::1::::<><>::
+Back Palm Tree Left 02.png::CompressedTexture2D::4359080681063368990::1706021259::1706021510::1::::<><>::
+Back Palm Tree Left 03.png::CompressedTexture2D::2901738970574027031::1706021259::1706021510::1::::<><>::
+Back Palm Tree Left 04.png::CompressedTexture2D::8451394400576229168::1706021259::1706021510::1::::<><>::
+Back Palm Tree Regular 01.png::CompressedTexture2D::451469983303272342::1706021259::1706021510::1::::<><>::
+Back Palm Tree Regular 02.png::CompressedTexture2D::7245784839701313316::1706021259::1706021510::1::::<><>::
+Back Palm Tree Regular 03.png::CompressedTexture2D::2356841090342297425::1706021259::1706021510::1::::<><>::
+Back Palm Tree Regular 04.png::CompressedTexture2D::2876599792298046076::1706021259::1706021510::1::::<><>::
+Back Palm Tree Right 01.png::CompressedTexture2D::1247697027441746977::1706021259::1706021510::1::::<><>::
+Back Palm Tree Right 02.png::CompressedTexture2D::2374131753126615074::1706021259::1706021510::1::::<><>::
+Back Palm Tree Right 03.png::CompressedTexture2D::7614636076655392572::1706021259::1706021509::1::::<><>::
+Back Palm Tree Right 04.png::CompressedTexture2D::8942033977924669870::1706021259::1706021509::1::::<><>::
+::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Background/::1706021510
+Additional Sky.png::CompressedTexture2D::523007893265535834::1706021256::1706021509::1::::<><>::
+Additional Water.png::CompressedTexture2D::7638688961278248355::1706021256::1706021509::1::::<><>::
+BG Image.png::CompressedTexture2D::3846388205825260584::1706021256::1706021509::1::::<><>::
+Big Clouds.png::CompressedTexture2D::8825949661029346299::1706021256::1706021509::1::::<><>::
+Small Cloud 1.png::CompressedTexture2D::9182663105218701501::1706021256::1706021510::1::::<><>::
+Small Cloud 2.png::CompressedTexture2D::7330167207351439090::1706021257::1706021510::1::::<><>::
+Small Cloud 3.png::CompressedTexture2D::1118465003170748556::1706021256::1706021510::1::::<><>::
+Water Reflect Big 01.png::CompressedTexture2D::8471758683833366982::1706021256::1706021510::1::::<><>::
+Water Reflect Big 02.png::CompressedTexture2D::6089581282703962531::1706021256::1706021510::1::::<><>::
+Water Reflect Big 03.png::CompressedTexture2D::3245061649627492434::1706021256::1706021510::1::::<><>::
+Water Reflect Big 04.png::CompressedTexture2D::8306371871473821637::1706021256::1706021510::1::::<><>::
+Water Reflect Medium 01.png::CompressedTexture2D::527215398149927556::1706021256::1706021510::1::::<><>::
+Water Reflect Medium 02.png::CompressedTexture2D::2818099208414236055::1706021256::1706021510::1::::<><>::
+Water Reflect Medium 03.png::CompressedTexture2D::1758223053290307737::1706021256::1706021510::1::::<><>::
+Water Reflect Medium 04.png::CompressedTexture2D::8678317220037763675::1706021256::1706021510::1::::<><>::
+Water Reflect Small 01.png::CompressedTexture2D::7938824294406751601::1706021256::1706021510::1::::<><>::
+Water Reflect Small 02.png::CompressedTexture2D::9084496966672002156::1706021256::1706021510::1::::<><>::
+Water Reflect Small 03.png::CompressedTexture2D::9211693059846503396::1706021256::1706021510::1::::<><>::
+Water Reflect Small 04.png::CompressedTexture2D::1389586297851828945::1706021256::1706021510::1::::<><>::
+::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Front Palm Trees/::1706021510
+Front Palm Bottom and Grass (32x32).png::CompressedTexture2D::6628824903972321916::1706021259::1706021510::1::::<><>::
+Front Palm Tree Top 01.png::CompressedTexture2D::6109468371699667348::1706021259::1706021510::1::::<><>::
+Front Palm Tree Top 02.png::CompressedTexture2D::4452552711202328205::1706021259::1706021510::1::::<><>::
+Front Palm Tree Top 03.png::CompressedTexture2D::5061899992529916481::1706021259::1706021510::1::::<><>::
+Front Palm Tree Top 04.png::CompressedTexture2D::1974885170490496029::1706021259::1706021509::1::::<><>::
+::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Objects/::1706021258
+::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Objects/Chest/::1706021509
+Chest Close 01.png::CompressedTexture2D::4335300441338082401::1706021258::1706021509::1::::<><>::
+Chest Close 02.png::CompressedTexture2D::806152890798648196::1706021258::1706021509::1::::<><>::
+Chest Close 03.png::CompressedTexture2D::7221109277583749031::1706021258::1706021509::1::::<><>::
+Chest Close 04.png::CompressedTexture2D::8632708638958763709::1706021258::1706021509::1::::<><>::
+Chest Close 05.png::CompressedTexture2D::9579461801907660::1706021258::1706021509::1::::<><>::
+Chest Close 06.png::CompressedTexture2D::9040323732699401318::1706021258::1706021509::1::::<><>::
+Chest Close 07.png::CompressedTexture2D::5454773109100469125::1706021258::1706021509::1::::<><>::
+Chest Close 08.png::CompressedTexture2D::1977290566257185486::1706021258::1706021509::1::::<><>::
+Chest Close 09.png::CompressedTexture2D::783850389999621113::1706021258::1706021509::1::::<><>::
+Chest Close 10.png::CompressedTexture2D::2188930083598026790::1706021258::1706021509::1::::<><>::
+Chest Open 01.png::CompressedTexture2D::2637054270346015099::1706021258::1706021509::1::::<><>::
+Chest Open 02.png::CompressedTexture2D::8865682816111247153::1706021258::1706021509::1::::<><>::
+Chest Open 03.png::CompressedTexture2D::7592169292345751510::1706021258::1706021509::1::::<><>::
+Chest Open 04.png::CompressedTexture2D::754933453593659043::1706021258::1706021509::1::::<><>::
+Chest Open 05.png::CompressedTexture2D::8730971843820646802::1706021258::1706021509::1::::<><>::
+Chest Open 06.png::CompressedTexture2D::3859415604592861174::1706021258::1706021509::1::::<><>::
+Chest Open 07.png::CompressedTexture2D::340964984455552654::1706021258::1706021509::1::::<><>::
+Chest Open 08.png::CompressedTexture2D::6926740693685763761::1706021259::1706021509::1::::<><>::
+Chest Open 09.png::CompressedTexture2D::7605084648517081312::1706021259::1706021509::1::::<><>::
+Chest Open 10.png::CompressedTexture2D::3919425985779001854::1706021258::1706021509::1::::<><>::
+::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Objects/Flag/::1706021509
+Flag 01.png::CompressedTexture2D::7609227442602831353::1706021257::1706021509::1::::<><>::
+Flag 02.png::CompressedTexture2D::6525979707156038457::1706021257::1706021509::1::::<><>::
+Flag 03.png::CompressedTexture2D::5286701596109040679::1706021257::1706021509::1::::<><>::
+Flag 04.png::CompressedTexture2D::4392628050396145662::1706021257::1706021509::1::::<><>::
+Flag 05.png::CompressedTexture2D::1320916020039092744::1706021257::1706021509::1::::<><>::
+Flag 06.png::CompressedTexture2D::8929799111504902977::1706021257::1706021509::1::::<><>::
+Flag 07.png::CompressedTexture2D::6766662462447112761::1706021257::1706021509::1::::<><>::
+Flag 08.png::CompressedTexture2D::2582408332439680500::1706021257::1706021509::1::::<><>::
+Flag 09.png::CompressedTexture2D::7918552558963181877::1706021257::1706021509::1::::<><>::
+Platform.png::CompressedTexture2D::108969905491244307::1706021257::1706021509::1::::<><>::
+::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Objects/Ship Helm/::1706021516
+Ship Helm Idle 01.png::CompressedTexture2D::6629916801758734180::1706021257::1706021509::1::::<><>::
+Ship Helm Idle 02.png::CompressedTexture2D::3573348814823659926::1706021257::1706021509::1::::<><>::
+Ship Helm Idle 03.png::CompressedTexture2D::4221870781086876528::1706021257::1706021509::1::::<><>::
+Ship Helm Idle 04.png::CompressedTexture2D::7143517286643527503::1706021257::1706021509::1::::<><>::
+Ship Helm Idle 05.png::CompressedTexture2D::1473958191099542170::1706021257::1706021509::1::::<><>::
+Ship Helm Idle 06.png::CompressedTexture2D::774522078553765584::1706021258::1706021509::1::::<><>::
+Ship Helm Turn 01.png::CompressedTexture2D::5368976448110623237::1706021257::1706021516::1::::<><>::
+Ship Helm Turn 02.png::CompressedTexture2D::3542481310513951176::1706021257::1706021516::1::::<><>::
+Ship Helm Turn 03.png::CompressedTexture2D::8382802665663658995::1706021257::1706021516::1::::<><>::
+Ship Helm Turn 04.png::CompressedTexture2D::522215296031878493::1706021257::1706021516::1::::<><>::
+::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Objects/Spikes/::1706021516
+Spikes.png::CompressedTexture2D::1179475396204334250::1706021258::1706021516::1::::<><>::
+::res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Terrain/::1706021516
+Terrain (32x32).png::CompressedTexture2D::4797333975739283079::1706021259::1706021516::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Ship/::1706021274
+::res://sptites/Treasure Hunters/Pirate Ship/Aseprite/::1706021274
+::res://sptites/Treasure Hunters/Pirate Ship/Sprites/::1706021280
+::res://sptites/Treasure Hunters/Pirate Ship/Sprites/Decorations/::1706021280
+::res://sptites/Treasure Hunters/Pirate Ship/Sprites/Decorations/Barrels and Bottles/::1706021516
+01.png::CompressedTexture2D::4827708589152513768::1706021279::1706021516::1::::<><>::
+02.png::CompressedTexture2D::8671581776569281132::1706021279::1706021516::1::::<><>::
+03.png::CompressedTexture2D::2960167821446047545::1706021279::1706021516::1::::<><>::
+04.png::CompressedTexture2D::4710827833062384571::1706021279::1706021516::1::::<><>::
+05.png::CompressedTexture2D::8294594063327137742::1706021279::1706021516::1::::<><>::
+06.png::CompressedTexture2D::7890730846657550498::1706021279::1706021516::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Ship/Sprites/Decorations/Candle/::1706021275
+::res://sptites/Treasure Hunters/Pirate Ship/Sprites/Decorations/Candle/Candle/::1706021516
+01.png::CompressedTexture2D::2992718366922480348::1706021274::1706021516::1::::<><>::
+02.png::CompressedTexture2D::424241802360015246::1706021275::1706021516::1::::<><>::
+03.png::CompressedTexture2D::977510896089045801::1706021275::1706021516::1::::<><>::
+04.png::CompressedTexture2D::6812047830154369318::1706021275::1706021516::1::::<><>::
+05.png::CompressedTexture2D::3660129591661381742::1706021275::1706021516::1::::<><>::
+06.png::CompressedTexture2D::6790830041073475370::1706021275::1706021516::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Ship/Sprites/Decorations/Candle/Candle Light/::1706021517
+01.png::CompressedTexture2D::4023175340808907020::1706021275::1706021516::1::::<><>::
+02.png::CompressedTexture2D::3189799507576527742::1706021275::1706021516::1::::<><>::
+03.png::CompressedTexture2D::5959147626572331736::1706021275::1706021516::1::::<><>::
+04.png::CompressedTexture2D::8209484617664082816::1706021275::1706021516::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Ship/Sprites/Decorations/Chains/::1706021279
+::res://sptites/Treasure Hunters/Pirate Ship/Sprites/Decorations/Chains/Big/::1706021516
+01.png::CompressedTexture2D::3000435360224804079::1706021279::1706021516::1::::<><>::
+02.png::CompressedTexture2D::1704451771983921343::1706021279::1706021516::1::::<><>::
+03.png::CompressedTexture2D::7984484792754686510::1706021279::1706021516::1::::<><>::
+04.png::CompressedTexture2D::5271612714596670475::1706021279::1706021516::1::::<><>::
+05.png::CompressedTexture2D::4588116031664276572::1706021279::1706021516::1::::<><>::
+06.png::CompressedTexture2D::2336149883299195403::1706021279::1706021516::1::::<><>::
+07.png::CompressedTexture2D::7140042270034969698::1706021279::1706021516::1::::<><>::
+08.png::CompressedTexture2D::4142656366271324960::1706021279::1706021516::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Ship/Sprites/Decorations/Chains/Small/::1706021516
+01.png::CompressedTexture2D::2965474222563575554::1706021279::1706021516::1::::<><>::
+02.png::CompressedTexture2D::626554701917982280::1706021279::1706021516::1::::<><>::
+03.png::CompressedTexture2D::4540633656155193117::1706021279::1706021516::1::::<><>::
+04.png::CompressedTexture2D::1953401268691751279::1706021280::1706021516::1::::<><>::
+05.png::CompressedTexture2D::4257982655378754971::1706021280::1706021516::1::::<><>::
+06.png::CompressedTexture2D::3584271461476060198::1706021279::1706021516::1::::<><>::
+07.png::CompressedTexture2D::9161237583769721935::1706021279::1706021516::1::::<><>::
+08.png::CompressedTexture2D::9003899935905881477::1706021280::1706021516::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Ship/Sprites/Decorations/Door/::1706021280
+::res://sptites/Treasure Hunters/Pirate Ship/Sprites/Decorations/Door/Closing/::1706021516
+01.png::CompressedTexture2D::7331147377550674379::1706021280::1706021516::1::::<><>::
+02.png::CompressedTexture2D::8380519194987981990::1706021280::1706021515::1::::<><>::
+03.png::CompressedTexture2D::3403251952781610668::1706021280::1706021515::1::::<><>::
+04.png::CompressedTexture2D::7967738442901161745::1706021280::1706021515::1::::<><>::
+05.png::CompressedTexture2D::3188939333625180494::1706021280::1706021515::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Ship/Sprites/Decorations/Door/Opening/::1706021515
+01.png::CompressedTexture2D::1920793178757207564::1706021280::1706021515::1::::<><>::
+02.png::CompressedTexture2D::7187616669741082960::1706021280::1706021515::1::::<><>::
+03.png::CompressedTexture2D::3196396699405961418::1706021280::1706021515::1::::<><>::
+04.png::CompressedTexture2D::6227175277139892285::1706021280::1706021515::1::::<><>::
+05.png::CompressedTexture2D::1267993214234995633::1706021280::1706021515::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Ship/Sprites/Decorations/Window/::1706021275
+::res://sptites/Treasure Hunters/Pirate Ship/Sprites/Decorations/Window/Window/::1706021518
+01.png::CompressedTexture2D::1977407493338308807::1706021276::1706021515::1::::<><>::
+02.png::CompressedTexture2D::162376243187945747::1706021276::1706021515::1::::<><>::
+03.png::CompressedTexture2D::747039543006868932::1706021276::1706021515::1::::<><>::
+04.png::CompressedTexture2D::2097380596781419807::1706021277::1706021515::1::::<><>::
+05.png::CompressedTexture2D::1821437954378811778::1706021277::1706021515::1::::<><>::
+06.png::CompressedTexture2D::4813282765011215661::1706021276::1706021515::1::::<><>::
+07.png::CompressedTexture2D::354340100390289036::1706021276::1706021515::1::::<><>::
+08.png::CompressedTexture2D::5859280654028967924::1706021277::1706021515::1::::<><>::
+09.png::CompressedTexture2D::8388030573168679629::1706021277::1706021516::1::::<><>::
+10.png::CompressedTexture2D::5546212029886953368::1706021277::1706021516::1::::<><>::
+11.png::CompressedTexture2D::6721587150938811165::1706021276::1706021516::1::::<><>::
+12.png::CompressedTexture2D::6051609084051993015::1706021276::1706021516::1::::<><>::
+13.png::CompressedTexture2D::1930300058046621087::1706021276::1706021516::1::::<><>::
+14.png::CompressedTexture2D::619387179702102302::1706021276::1706021516::1::::<><>::
+15.png::CompressedTexture2D::8733418089150165146::1706021276::1706021516::1::::<><>::
+16.png::CompressedTexture2D::8446003745104109915::1706021276::1706021516::1::::<><>::
+17.png::CompressedTexture2D::2230864063208715845::1706021276::1706021516::1::::<><>::
+18.png::CompressedTexture2D::5933461872375673409::1706021277::1706021516::1::::<><>::
+19.png::CompressedTexture2D::2014878407600029986::1706021278::1706021516::1::::<><>::
+20.png::CompressedTexture2D::8402954698961508481::1706021277::1706021516::1::::<><>::
+21.png::CompressedTexture2D::2643667324885104829::1706021277::1706021516::1::::<><>::
+22.png::CompressedTexture2D::3778369478824136417::1706021277::1706021516::1::::<><>::
+23.png::CompressedTexture2D::6457903817971072880::1706021277::1706021516::1::::<><>::
+24.png::CompressedTexture2D::1338963418162691236::1706021278::1706021516::1::::<><>::
+25.png::CompressedTexture2D::7880305498402321875::1706021278::1706021515::1::::<><>::
+26.png::CompressedTexture2D::7260105027806840879::1706021277::1706021515::1::::<><>::
+27.png::CompressedTexture2D::4616380617270948453::1706021277::1706021515::1::::<><>::
+28.png::CompressedTexture2D::6903514320950081836::1706021276::1706021517::1::::<><>::
+29.png::CompressedTexture2D::5366688988441291284::1706021276::1706021517::1::::<><>::
+30.png::CompressedTexture2D::6906197867551078322::1706021278::1706021517::1::::<><>::
+31.png::CompressedTexture2D::4737413054971311546::1706021278::1706021517::1::::<><>::
+32.png::CompressedTexture2D::2644461504115774589::1706021277::1706021517::1::::<><>::
+33.png::CompressedTexture2D::7605027874547969300::1706021277::1706021517::1::::<><>::
+34.png::CompressedTexture2D::5617520595867196182::1706021277::1706021517::1::::<><>::
+35.png::CompressedTexture2D::3353302397547005109::1706021277::1706021517::1::::<><>::
+36.png::CompressedTexture2D::4300169376553306678::1706021277::1706021517::1::::<><>::
+37.png::CompressedTexture2D::5915442045329158721::1706021277::1706021517::1::::<><>::
+38.png::CompressedTexture2D::3091329584547994080::1706021277::1706021517::1::::<><>::
+39.png::CompressedTexture2D::4313893871195210141::1706021276::1706021517::1::::<><>::
+40.png::CompressedTexture2D::130569767150948858::1706021278::1706021517::1::::<><>::
+41.png::CompressedTexture2D::200428677118641710::1706021278::1706021517::1::::<><>::
+42.png::CompressedTexture2D::8578294681126774712::1706021278::1706021517::1::::<><>::
+43.png::CompressedTexture2D::4692384835838504557::1706021278::1706021517::1::::<><>::
+44.png::CompressedTexture2D::3523960905217612690::1706021278::1706021517::1::::<><>::
+45.png::CompressedTexture2D::7334100146757172754::1706021278::1706021517::1::::<><>::
+46.png::CompressedTexture2D::1208767562171804475::1706021279::1706021517::1::::<><>::
+47.png::CompressedTexture2D::3151782293338415356::1706021278::1706021518::1::::<><>::
+48.png::CompressedTexture2D::7126562918074859572::1706021275::1706021518::1::::<><>::
+49.png::CompressedTexture2D::4668421501208450541::1706021275::1706021518::1::::<><>::
+50.png::CompressedTexture2D::5496294733860161067::1706021278::1706021518::1::::<><>::
+51.png::CompressedTexture2D::8662652913926669629::1706021278::1706021518::1::::<><>::
+52.png::CompressedTexture2D::1018329355077542864::1706021279::1706021518::1::::<><>::
+53.png::CompressedTexture2D::6017014266665052091::1706021278::1706021518::1::::<><>::
+54.png::CompressedTexture2D::4362832964473126409::1706021278::1706021518::1::::<><>::
+55.png::CompressedTexture2D::2348855895057338126::1706021278::1706021518::1::::<><>::
+56.png::CompressedTexture2D::3097400493715400201::1706021278::1706021518::1::::<><>::
+57.png::CompressedTexture2D::4704740776798745378::1706021278::1706021518::1::::<><>::
+58.png::CompressedTexture2D::4721286291071003655::1706021276::1706021518::1::::<><>::
+59.png::CompressedTexture2D::1979455818022525455::1706021275::1706021518::1::::<><>::
+60.png::CompressedTexture2D::5371786253415783904::1706021275::1706021518::1::::<><>::
+61.png::CompressedTexture2D::4788593280491494254::1706021275::1706021517::1::::<><>::
+62.png::CompressedTexture2D::4978548572246518451::1706021275::1706021517::1::::<><>::
+63.png::CompressedTexture2D::4556235741587145927::1706021275::1706021517::1::::<><>::
+64.png::CompressedTexture2D::4777618249985088373::1706021276::1706021517::1::::<><>::
+65.png::CompressedTexture2D::8539736092498733969::1706021275::1706021517::1::::<><>::
+66.png::CompressedTexture2D::872251825392801121::1706021276::1706021517::1::::<><>::
+67.png::CompressedTexture2D::818948435083274348::1706021276::1706021517::1::::<><>::
+68.png::CompressedTexture2D::7722500960404892704::1706021278::1706021517::1::::<><>::
+69.png::CompressedTexture2D::6835531539433404235::1706021278::1706021517::1::::<><>::
+70.png::CompressedTexture2D::8747425123461061518::1706021276::1706021517::1::::<><>::
+71.png::CompressedTexture2D::8405621530902905269::1706021275::1706021517::1::::<><>::
+72.png::CompressedTexture2D::9170976566229666645::1706021276::1706021517::1::::<><>::
+73.png::CompressedTexture2D::1855191541058548386::1706021276::1706021517::1::::<><>::
+74.png::CompressedTexture2D::6634887116715145468::1706021275::1706021517::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Ship/Sprites/Decorations/Window/Window Light/::1706021517
+01.png::CompressedTexture2D::1777267804668805639::1706021275::1706021517::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Ship/Sprites/Tilesets/::1706021517
+Platforms (32x32).png::CompressedTexture2D::9117829774499790506::1706021280::1706021517::1::::<><>::
+Terrain and Back Wall (32x32).png::CompressedTexture2D::4041092723559263446::1706021280::1706021517::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Treasure/::1706021268
+::res://sptites/Treasure Hunters/Pirate Treasure/Aseprite/::1706021268
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/::1706021274
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Big Map/::1706021273
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Big Map/Folding/::1706021517
+01.png::CompressedTexture2D::2584654376024808722::1706021272::1706021517::1::::<><>::
+02.png::CompressedTexture2D::8197942163936545754::1706021272::1706021517::1::::<><>::
+03.png::CompressedTexture2D::6294473389728699389::1706021272::1706021517::1::::<><>::
+04.png::CompressedTexture2D::5708040004599505123::1706021272::1706021517::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Big Map/Idle/::1706021517
+01.png::CompressedTexture2D::4208226048319288761::1706021273::1706021517::1::::<><>::
+02.png::CompressedTexture2D::748814161736527967::1706021273::1706021517::1::::<><>::
+03.png::CompressedTexture2D::5334228509423487736::1706021273::1706021517::1::::<><>::
+04.png::CompressedTexture2D::8719768220332406426::1706021273::1706021517::1::::<><>::
+05.png::CompressedTexture2D::5881272410528115162::1706021273::1706021517::1::::<><>::
+06.png::CompressedTexture2D::7885948272369522969::1706021273::1706021517::1::::<><>::
+07.png::CompressedTexture2D::1228640550461357691::1706021273::1706021517::1::::<><>::
+08.png::CompressedTexture2D::3045258272081173131::1706021273::1706021517::1::::<><>::
+09.png::CompressedTexture2D::1948808503955718671::1706021273::1706021517::1::::<><>::
+10.png::CompressedTexture2D::6318619656075273716::1706021273::1706021517::1::::<><>::
+11.png::CompressedTexture2D::5390832920322122993::1706021273::1706021517::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Big Map/Unfolding/::1706021517
+01.png::CompressedTexture2D::1521581068076560229::1706021273::1706021517::1::::<><>::
+02.png::CompressedTexture2D::4401923911585780154::1706021273::1706021517::1::::<><>::
+03.png::CompressedTexture2D::5909935058398280320::1706021273::1706021517::1::::<><>::
+04.png::CompressedTexture2D::1092323891668146317::1706021273::1706021517::1::::<><>::
+05.png::CompressedTexture2D::5669099666666439396::1706021273::1706021517::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Blue Diamond/::1706021517
+01.png::CompressedTexture2D::6961277513710074962::1706021274::1706021517::1::::<><>::
+02.png::CompressedTexture2D::4864380815081712351::1706021274::1706021517::1::::<><>::
+03.png::CompressedTexture2D::2826207647634898554::1706021274::1706021517::1::::<><>::
+04.png::CompressedTexture2D::7532634665464772926::1706021274::1706021517::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Blue Potion/::1706021517
+01.png::CompressedTexture2D::8248572297150126859::1706021271::1706021517::1::::<><>::
+02.png::CompressedTexture2D::5233141507242517208::1706021271::1706021517::1::::<><>::
+03.png::CompressedTexture2D::1877271954958518705::1706021271::1706021514::1::::<><>::
+04.png::CompressedTexture2D::2328621117623194676::1706021272::1706021514::1::::<><>::
+05.png::CompressedTexture2D::3385218546652978018::1706021272::1706021514::1::::<><>::
+06.png::CompressedTexture2D::6252147123748322425::1706021272::1706021514::1::::<><>::
+07.png::CompressedTexture2D::3442798721577451907::1706021272::1706021514::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Coin Effect/::1706021514
+01.png::CompressedTexture2D::1326288867362776251::1706021268::1706021514::1::::<><>::
+02.png::CompressedTexture2D::8236891434944222723::1706021269::1706021514::1::::<><>::
+03.png::CompressedTexture2D::3828128501763023108::1706021269::1706021514::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Diamond Effect/::1706021514
+01.png::CompressedTexture2D::6461760719371691562::1706021272::1706021514::1::::<><>::
+02.png::CompressedTexture2D::5143141158725908189::1706021272::1706021513::1::::<><>::
+03.png::CompressedTexture2D::7701779056027659504::1706021272::1706021513::1::::<><>::
+04.png::CompressedTexture2D::3946510677751805680::1706021272::1706021513::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Gold Coin/::1706021513
+01.png::CompressedTexture2D::3540828865459621895::1706021274::1706021513::1::::<><>::
+02.png::CompressedTexture2D::7107393135730048254::1706021274::1706021513::1::::<><>::
+03.png::CompressedTexture2D::8330359073739535932::1706021274::1706021513::1::::<><>::
+04.png::CompressedTexture2D::4775184849965507351::1706021274::1706021513::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Golden Skull/::1706021514
+01.png::CompressedTexture2D::8178773735686848870::1706021272::1706021513::1::::<><>::
+02.png::CompressedTexture2D::6335100721240844929::1706021272::1706021513::1::::<><>::
+03.png::CompressedTexture2D::3362105097957223925::1706021272::1706021513::1::::<><>::
+04.png::CompressedTexture2D::9175973685746884713::1706021272::1706021514::1::::<><>::
+05.png::CompressedTexture2D::1143928853450299824::1706021272::1706021514::1::::<><>::
+06.png::CompressedTexture2D::194367422019285952::1706021272::1706021514::1::::<><>::
+07.png::CompressedTexture2D::1675689661112126325::1706021272::1706021514::1::::<><>::
+08.png::CompressedTexture2D::8512558476046022478::1706021272::1706021514::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Green Bottle/::1706021514
+01.png::CompressedTexture2D::8719748060457235646::1706021269::1706021514::1::::<><>::
+02.png::CompressedTexture2D::6342821792129942685::1706021269::1706021514::1::::<><>::
+03.png::CompressedTexture2D::4099026984473211301::1706021269::1706021514::1::::<><>::
+04.png::CompressedTexture2D::6351644113148772244::1706021269::1706021514::1::::<><>::
+05.png::CompressedTexture2D::3674689691250300825::1706021269::1706021514::1::::<><>::
+06.png::CompressedTexture2D::6654552293965544998::1706021269::1706021514::1::::<><>::
+07.png::CompressedTexture2D::4159496400247700202::1706021269::1706021514::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Green Diamond/::1706021514
+01.png::CompressedTexture2D::1388316910454158417::1706021269::1706021514::1::::<><>::
+02.png::CompressedTexture2D::3545834088837738570::1706021269::1706021514::1::::<><>::
+03.png::CompressedTexture2D::8634861186030713298::1706021269::1706021514::1::::<><>::
+04.png::CompressedTexture2D::5346291021882719543::1706021269::1706021514::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Map Effect/::1706021271
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Map Effect/In/::1706021514
+01.png::CompressedTexture2D::7638728028320420093::1706021271::1706021514::1::::<><>::
+02.png::CompressedTexture2D::7383936251817793368::1706021271::1706021514::1::::<><>::
+03.png::CompressedTexture2D::536254834734836809::1706021271::1706021514::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Map Effect/Out/::1706021513
+01.png::CompressedTexture2D::6310341609594733516::1706021271::1706021513::1::::<><>::
+02.png::CompressedTexture2D::6339428532566133258::1706021271::1706021513::1::::<><>::
+03.png::CompressedTexture2D::6818446281719712687::1706021271::1706021513::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Potion Effect/::1706021513
+01.png::CompressedTexture2D::1364882257551081748::1706021271::1706021513::1::::<><>::
+02.png::CompressedTexture2D::666921670566036838::1706021271::1706021513::1::::<><>::
+03.png::CompressedTexture2D::7940572316898688998::1706021271::1706021513::1::::<><>::
+04.png::CompressedTexture2D::2975474321922688225::1706021271::1706021513::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Red Diamond/::1706021513
+01.png::CompressedTexture2D::1492360289589348536::1706021271::1706021513::1::::<><>::
+02.png::CompressedTexture2D::3522002428628003046::1706021271::1706021513::1::::<><>::
+03.png::CompressedTexture2D::5517854275407759006::1706021271::1706021513::1::::<><>::
+04.png::CompressedTexture2D::8922211633953053347::1706021271::1706021513::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Red Potion/::1706021513
+01.png::CompressedTexture2D::1228153131147029220::1706021274::1706021513::1::::<><>::
+02.png::CompressedTexture2D::5012784981217537529::1706021274::1706021513::1::::<><>::
+03.png::CompressedTexture2D::937915317945100926::1706021274::1706021513::1::::<><>::
+04.png::CompressedTexture2D::3576291831317993863::1706021274::1706021513::1::::<><>::
+05.png::CompressedTexture2D::8030576076620397769::1706021274::1706021513::1::::<><>::
+06.png::CompressedTexture2D::7697059204096319429::1706021274::1706021513::1::::<><>::
+07.png::CompressedTexture2D::5061746629276394092::1706021274::1706021513::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Silver Coin/::1706021513
+01.png::CompressedTexture2D::2281828969504946478::1706021273::1706021513::1::::<><>::
+02.png::CompressedTexture2D::3355628831149780407::1706021273::1706021513::1::::<><>::
+03.png::CompressedTexture2D::8444238880303925683::1706021273::1706021513::1::::<><>::
+04.png::CompressedTexture2D::1721177404785835172::1706021273::1706021513::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Skull Effect/::1706021513
+01.png::CompressedTexture2D::1363619117080824530::1706021268::1706021513::1::::<><>::
+02.png::CompressedTexture2D::7381433453884366478::1706021268::1706021513::1::::<><>::
+03.png::CompressedTexture2D::418680710567523143::1706021268::1706021513::1::::<><>::
+04.png::CompressedTexture2D::1227726622264847812::1706021268::1706021513::1::::<><>::
+05.png::CompressedTexture2D::3707468020618469988::1706021268::1706021513::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Small Maps/::1706021270
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Small Maps/Small Map 1/::1706021513
+01.png::CompressedTexture2D::948777236171236512::1706021270::1706021513::1::::<><>::
+02.png::CompressedTexture2D::5994036567277336116::1706021270::1706021513::1::::<><>::
+03.png::CompressedTexture2D::5390237218616693271::1706021270::1706021513::1::::<><>::
+04.png::CompressedTexture2D::4104353686402094962::1706021271::1706021513::1::::<><>::
+05.png::CompressedTexture2D::4387103295554509240::1706021271::1706021513::1::::<><>::
+06.png::CompressedTexture2D::7454456166268172762::1706021270::1706021513::1::::<><>::
+07.png::CompressedTexture2D::2108473862949717707::1706021271::1706021513::1::::<><>::
+08.png::CompressedTexture2D::6410927758836421374::1706021271::1706021513::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Small Maps/Small Map 2/::1706021515
+01.png::CompressedTexture2D::1696636564009977641::1706021270::1706021513::1::::<><>::
+02.png::CompressedTexture2D::1992385198134252225::1706021270::1706021513::1::::<><>::
+03.png::CompressedTexture2D::6436148687407299108::1706021270::1706021515::1::::<><>::
+04.png::CompressedTexture2D::7710476636641520697::1706021270::1706021515::1::::<><>::
+05.png::CompressedTexture2D::7463224047291412566::1706021270::1706021515::1::::<><>::
+06.png::CompressedTexture2D::1356559078687307216::1706021270::1706021515::1::::<><>::
+07.png::CompressedTexture2D::8611240067646173557::1706021270::1706021515::1::::<><>::
+08.png::CompressedTexture2D::5281057216432597147::1706021270::1706021515::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Small Maps/Small Map 3/::1706021515
+01.png::CompressedTexture2D::6529249636122741343::1706021270::1706021515::1::::<><>::
+02.png::CompressedTexture2D::5735469067428225769::1706021270::1706021515::1::::<><>::
+03.png::CompressedTexture2D::7942464312929110523::1706021270::1706021515::1::::<><>::
+04.png::CompressedTexture2D::9108408700460285944::1706021270::1706021515::1::::<><>::
+05.png::CompressedTexture2D::7231963992034582738::1706021270::1706021515::1::::<><>::
+06.png::CompressedTexture2D::3786982350271258031::1706021270::1706021515::1::::<><>::
+07.png::CompressedTexture2D::8558749698256141913::1706021270::1706021515::1::::<><>::
+08.png::CompressedTexture2D::4030297500636903950::1706021270::1706021515::1::::<><>::
+::res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Small Maps/Small Map 4/::1706021515
+01.png::CompressedTexture2D::1497638016463587500::1706021269::1706021515::1::::<><>::
+02.png::CompressedTexture2D::3961210201957987510::1706021269::1706021515::1::::<><>::
+03.png::CompressedTexture2D::7548904987130963662::1706021269::1706021515::1::::<><>::
+04.png::CompressedTexture2D::710121923689348300::1706021269::1706021515::1::::<><>::
+05.png::CompressedTexture2D::3208234507647151465::1706021269::1706021515::1::::<><>::
+06.png::CompressedTexture2D::8999155939865565011::1706021269::1706021515::1::::<><>::
+07.png::CompressedTexture2D::4412441709141547079::1706021269::1706021515::1::::<><>::
+08.png::CompressedTexture2D::3167164338213271094::1706021270::1706021515::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/::1706021260
+::res://sptites/Treasure Hunters/Shooter Traps/Aseprite/::1706021259
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/::1706021266
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Cannon/::1706021268
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Cannon/Cannon Ball Destroyed/::1706021515
+1.png::CompressedTexture2D::345961671528664967::1706021266::1706021515::1::::<><>::
+2.png::CompressedTexture2D::943966929086719928::1706021266::1706021515::1::::<><>::
+3.png::CompressedTexture2D::93401474039966878::1706021266::1706021515::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Cannon/Cannon Ball Explosion/::1706021515
+1.png::CompressedTexture2D::358745824198255695::1706021267::1706021515::1::::<><>::
+2.png::CompressedTexture2D::3497865614612176182::1706021267::1706021515::1::::<><>::
+3.png::CompressedTexture2D::4472257437202509199::1706021267::1706021515::1::::<><>::
+4.png::CompressedTexture2D::5043050041573182426::1706021266::1706021515::1::::<><>::
+5.png::CompressedTexture2D::2921379470316198079::1706021266::1706021515::1::::<><>::
+6.png::CompressedTexture2D::881240945580615747::1706021267::1706021515::1::::<><>::
+7.png::CompressedTexture2D::7163899663335407088::1706021267::1706021515::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Cannon/Cannon Ball Idle/::1706021515
+1.png::CompressedTexture2D::6046774952553035535::1706021267::1706021515::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Cannon/Cannon Destroyed/::1706021515
+1.png::CompressedTexture2D::1400278299216433392::1706021268::1706021515::1::::<><>::
+2.png::CompressedTexture2D::5498049587098570226::1706021268::1706021515::1::::<><>::
+3.png::CompressedTexture2D::521379742572003858::1706021268::1706021515::1::::<><>::
+4.png::CompressedTexture2D::6245196453034889179::1706021268::1706021515::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Cannon/Cannon Fire/::1706021515
+1.png::CompressedTexture2D::8280131657781621811::1706021267::1706021515::1::::<><>::
+2.png::CompressedTexture2D::6248739602932298279::1706021267::1706021514::1::::<><>::
+3.png::CompressedTexture2D::5353750491402572542::1706021267::1706021514::1::::<><>::
+4.png::CompressedTexture2D::2772792857451174103::1706021267::1706021514::1::::<><>::
+5.png::CompressedTexture2D::8297631491421759799::1706021267::1706021514::1::::<><>::
+6.png::CompressedTexture2D::8877713810894385518::1706021267::1706021514::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Cannon/Cannon Fire Effect/::1706021514
+1.png::CompressedTexture2D::5454787267868179315::1706021268::1706021514::1::::<><>::
+2.png::CompressedTexture2D::7022834136410643445::1706021268::1706021514::1::::<><>::
+3.png::CompressedTexture2D::9096320632414844995::1706021268::1706021514::1::::<><>::
+4.png::CompressedTexture2D::6127046653719660112::1706021268::1706021514::1::::<><>::
+5.png::CompressedTexture2D::6554814949934936941::1706021268::1706021514::1::::<><>::
+6.png::CompressedTexture2D::7556372572141253844::1706021268::1706021514::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Cannon/Cannon Hit/::1706021514
+1.png::CompressedTexture2D::272102222006129163::1706021268::1706021514::1::::<><>::
+2.png::CompressedTexture2D::3128399683185210821::1706021268::1706021514::1::::<><>::
+3.png::CompressedTexture2D::20011966821412879::1706021268::1706021514::1::::<><>::
+4.png::CompressedTexture2D::6757118918755064842::1706021267::1706021514::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Cannon/Cannon Idle/::1706021514
+1.png::CompressedTexture2D::6724635105471784658::1706021266::1706021514::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Seashell/::1706021266
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Seashell/Pearl Destroyed/::1706021515
+1.png::CompressedTexture2D::9123123592327660481::1706021265::1706021514::1::::<><>::
+2.png::CompressedTexture2D::7952123678501769317::1706021265::1706021514::1::::<><>::
+3.png::CompressedTexture2D::1487735574123851474::1706021265::1706021515::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Seashell/Pearl Idle/::1706021515
+1.png::CompressedTexture2D::6687400076926379097::1706021265::1706021515::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Seashell/Seashell Bite/::1706021515
+1.png::CompressedTexture2D::2350188039812068709::1706021265::1706021515::1::::<><>::
+2.png::CompressedTexture2D::7700802177249660303::1706021264::1706021515::1::::<><>::
+3.png::CompressedTexture2D::3500683168020214713::1706021264::1706021515::1::::<><>::
+4.png::CompressedTexture2D::7663401365745617104::1706021264::1706021515::1::::<><>::
+5.png::CompressedTexture2D::3497352560690082395::1706021264::1706021514::1::::<><>::
+6.png::CompressedTexture2D::2951911436187877348::1706021264::1706021514::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Seashell/Seashell Destroyed/::1706021514
+1.png::CompressedTexture2D::8039673735448576107::1706021266::1706021514::1::::<><>::
+2.png::CompressedTexture2D::4480600944235127207::1706021266::1706021514::1::::<><>::
+3.png::CompressedTexture2D::123068307077926313::1706021266::1706021514::1::::<><>::
+4.png::CompressedTexture2D::4675135737643192225::1706021266::1706021514::1::::<><>::
+5.png::CompressedTexture2D::2028639492558204800::1706021266::1706021514::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Seashell/Seashell Fire/::1706021514
+1.png::CompressedTexture2D::2656247703715115981::1706021265::1706021514::1::::<><>::
+2.png::CompressedTexture2D::7687000141967247088::1706021265::1706021514::1::::<><>::
+3.png::CompressedTexture2D::6719608979262886043::1706021265::1706021514::1::::<><>::
+4.png::CompressedTexture2D::4526490772522552650::1706021265::1706021514::1::::<><>::
+5.png::CompressedTexture2D::5758000182057255836::1706021265::1706021514::1::::<><>::
+6.png::CompressedTexture2D::3386072272523288219::1706021265::1706021514::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Seashell/Seashell Hit/::1706021500
+1.png::CompressedTexture2D::1760060677298475847::1706021265::1706021500::1::::<><>::
+2.png::CompressedTexture2D::3108943072241314137::1706021265::1706021500::1::::<><>::
+3.png::CompressedTexture2D::2997149730411202550::1706021265::1706021500::1::::<><>::
+4.png::CompressedTexture2D::7570940062782276414::1706021265::1706021500::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Seashell/Seashell Idle/::1706021500
+1.png::CompressedTexture2D::2927686727111360434::1706021264::1706021500::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Seashell/Seashell Opening/::1706021500
+1.png::CompressedTexture2D::3786486173442575056::1706021265::1706021500::1::::<><>::
+2.png::CompressedTexture2D::5990166269150636321::1706021265::1706021500::1::::<><>::
+3.png::CompressedTexture2D::25379739159127000::1706021265::1706021500::1::::<><>::
+4.png::CompressedTexture2D::2874080360735167553::1706021265::1706021500::1::::<><>::
+5.png::CompressedTexture2D::4068964446447543595::1706021265::1706021500::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/::1706021264
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 1/::1706021261
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 1/Attack 1/::1706021500
+1.png::CompressedTexture2D::7910520140049095921::1706021260::1706021500::1::::<><>::
+2.png::CompressedTexture2D::2323923168040808236::1706021260::1706021500::1::::<><>::
+3.png::CompressedTexture2D::4878781658886731257::1706021260::1706021500::1::::<><>::
+4.png::CompressedTexture2D::6346744962456290277::1706021260::1706021500::1::::<><>::
+5.png::CompressedTexture2D::2014136145477673372::1706021260::1706021500::1::::<><>::
+6.png::CompressedTexture2D::1985412451469090681::1706021260::1706021500::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 1/Attack 2/::1706021501
+1.png::CompressedTexture2D::6297016759993689781::1706021261::1706021500::1::::<><>::
+2.png::CompressedTexture2D::5883349942140302552::1706021261::1706021500::1::::<><>::
+3.png::CompressedTexture2D::2806153153797310654::1706021261::1706021500::1::::<><>::
+4.png::CompressedTexture2D::3609034338901912028::1706021261::1706021500::1::::<><>::
+5.png::CompressedTexture2D::8641591793937150425::1706021261::1706021500::1::::<><>::
+6.png::CompressedTexture2D::5301158783950787977::1706021261::1706021500::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 1/Destroyed/::1706021500
+1.png::CompressedTexture2D::4165512014695880607::1706021260::1706021500::1::::<><>::
+2.png::CompressedTexture2D::6015743534504228441::1706021260::1706021500::1::::<><>::
+3.png::CompressedTexture2D::5887706946610320074::1706021260::1706021500::1::::<><>::
+4.png::CompressedTexture2D::6102517218871798745::1706021260::1706021500::1::::<><>::
+5.png::CompressedTexture2D::2906954196659533923::1706021260::1706021500::1::::<><>::
+6.png::CompressedTexture2D::6810077042047237253::1706021260::1706021500::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 1/Hit 1/::1706021500
+1.png::CompressedTexture2D::4880136798935830856::1706021261::1706021500::1::::<><>::
+2.png::CompressedTexture2D::5719686811900635999::1706021261::1706021500::1::::<><>::
+3.png::CompressedTexture2D::4796356394341256263::1706021261::1706021500::1::::<><>::
+4.png::CompressedTexture2D::8298709239538733567::1706021261::1706021500::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 1/Hit 2/::1706021500
+1.png::CompressedTexture2D::4819494245866127256::1706021260::1706021500::1::::<><>::
+2.png::CompressedTexture2D::7692087171790267400::1706021260::1706021500::1::::<><>::
+3.png::CompressedTexture2D::2693859706998098359::1706021260::1706021500::1::::<><>::
+4.png::CompressedTexture2D::8296996316458809239::1706021260::1706021500::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 1/Idle 1/::1706021500
+1.png::CompressedTexture2D::4134081099594428965::1706021260::1706021500::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 1/Idle 2/::1706021500
+1.png::CompressedTexture2D::1988645917185313949::1706021260::1706021500::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 2/::1706021264
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 2/Attack 1/::1706021500
+1.png::CompressedTexture2D::8684040368012857225::1706021263::1706021500::1::::<><>::
+2.png::CompressedTexture2D::2345068012128637879::1706021263::1706021500::1::::<><>::
+3.png::CompressedTexture2D::1701956057430564909::1706021263::1706021500::1::::<><>::
+4.png::CompressedTexture2D::2958664033939276053::1706021263::1706021500::1::::<><>::
+5.png::CompressedTexture2D::1457903807359589632::1706021263::1706021500::1::::<><>::
+6.png::CompressedTexture2D::5018816915447124203::1706021263::1706021500::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 2/Attack 2/::1706021500
+1.png::CompressedTexture2D::6320525069581484666::1706021264::1706021500::1::::<><>::
+2.png::CompressedTexture2D::3631094936210092842::1706021264::1706021500::1::::<><>::
+3.png::CompressedTexture2D::7899362853423811325::1706021264::1706021500::1::::<><>::
+4.png::CompressedTexture2D::3875917194129800551::1706021263::1706021500::1::::<><>::
+5.png::CompressedTexture2D::4041691663953015647::1706021264::1706021500::1::::<><>::
+6.png::CompressedTexture2D::9123400043894679257::1706021264::1706021499::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 2/Destroyed/::1706021500
+1.png::CompressedTexture2D::5928188039697239294::1706021263::1706021499::1::::<><>::
+2.png::CompressedTexture2D::4951602599011906777::1706021263::1706021499::1::::<><>::
+3.png::CompressedTexture2D::8576530289174388838::1706021263::1706021499::1::::<><>::
+4.png::CompressedTexture2D::5400753503684645844::1706021263::1706021499::1::::<><>::
+5.png::CompressedTexture2D::3644725999018843219::1706021263::1706021499::1::::<><>::
+6.png::CompressedTexture2D::2544512557819125520::1706021263::1706021499::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 2/Hit 1/::1706021500
+1.png::CompressedTexture2D::2847351148287686651::1706021264::1706021500::1::::<><>::
+2.png::CompressedTexture2D::1723530930507394659::1706021264::1706021500::1::::<><>::
+3.png::CompressedTexture2D::2356222821255628227::1706021264::1706021500::1::::<><>::
+4.png::CompressedTexture2D::5260916064576362288::1706021264::1706021500::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 2/Hit 2/::1706021500
+1.png::CompressedTexture2D::7472362499473790023::1706021263::1706021500::1::::<><>::
+2.png::CompressedTexture2D::6188771822549790987::1706021263::1706021500::1::::<><>::
+3.png::CompressedTexture2D::579048789112925183::1706021263::1706021500::1::::<><>::
+4.png::CompressedTexture2D::2980220456330428454::1706021263::1706021500::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 2/Idle 1/::1706021500
+1.png::CompressedTexture2D::7153051607317174719::1706021263::1706021500::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 2/Idle 2/::1706021500
+1.png::CompressedTexture2D::6313330100420641098::1706021263::1706021500::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 3/::1706021262
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 3/Attack 1/::1706021500
+1.png::CompressedTexture2D::6846873010023879987::1706021261::1706021500::1::::<><>::
+2.png::CompressedTexture2D::955495901426933903::1706021261::1706021500::1::::<><>::
+3.png::CompressedTexture2D::3511060488830612901::1706021261::1706021500::1::::<><>::
+4.png::CompressedTexture2D::6112018566013109721::1706021261::1706021500::1::::<><>::
+5.png::CompressedTexture2D::216208893651885514::1706021261::1706021500::1::::<><>::
+6.png::CompressedTexture2D::8092149315890284334::1706021261::1706021500::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 3/Attack 2/::1706021501
+1.png::CompressedTexture2D::905752698919540174::1706021262::1706021500::1::::<><>::
+2.png::CompressedTexture2D::4914076969001267944::1706021262::1706021500::1::::<><>::
+3.png::CompressedTexture2D::6585411461905372203::1706021262::1706021500::1::::<><>::
+4.png::CompressedTexture2D::5882030974053202920::1706021262::1706021501::1::::<><>::
+5.png::CompressedTexture2D::3978462021188703613::1706021262::1706021501::1::::<><>::
+6.png::CompressedTexture2D::2428724541104685254::1706021262::1706021501::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 3/Destroyed/::1706021501
+1.png::CompressedTexture2D::5331112218061155426::1706021262::1706021501::1::::<><>::
+2.png::CompressedTexture2D::6151746894168982347::1706021262::1706021501::1::::<><>::
+3.png::CompressedTexture2D::2274279970427678772::1706021262::1706021501::1::::<><>::
+4.png::CompressedTexture2D::773832202516746105::1706021262::1706021501::1::::<><>::
+5.png::CompressedTexture2D::363172621165124587::1706021262::1706021501::1::::<><>::
+6.png::CompressedTexture2D::4398526095299773783::1706021262::1706021501::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 3/Hit 1/::1706021501
+1.png::CompressedTexture2D::6461643445734115834::1706021262::1706021501::1::::<><>::
+2.png::CompressedTexture2D::4717484946891396779::1706021262::1706021501::1::::<><>::
+3.png::CompressedTexture2D::8194256395660712294::1706021262::1706021501::1::::<><>::
+4.png::CompressedTexture2D::2253529203272966384::1706021262::1706021501::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 3/Hit 2/::1706021501
+1.png::CompressedTexture2D::5893361100417920312::1706021262::1706021501::1::::<><>::
+2.png::CompressedTexture2D::5577592760567560770::1706021261::1706021501::1::::<><>::
+3.png::CompressedTexture2D::1933698315750933412::1706021262::1706021501::1::::<><>::
+4.png::CompressedTexture2D::8049993064815688166::1706021261::1706021501::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 3/Idle 1/::1706021501
+1.png::CompressedTexture2D::8710252259155250158::1706021261::1706021501::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Head 3/Idle 2/::1706021501
+1.png::CompressedTexture2D::3105755867189524404::1706021262::1706021501::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Wood Spike/::1706021264
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Wood Spike/Destroyed/::1706021502
+1.png::CompressedTexture2D::2106237589588686660::1706021264::1706021502::1::::<><>::
+2.png::CompressedTexture2D::1571711077452836855::1706021264::1706021502::1::::<><>::
+3.png::CompressedTexture2D::8736541645632624443::1706021264::1706021502::1::::<><>::
+::res://sptites/Treasure Hunters/Shooter Traps/Sprites/Totems/Wood Spike/Idle/::1706021502
+1.png::CompressedTexture2D::1570606066631279110::1706021264::1706021502::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/::1706021287
+::res://sptites/Treasure Hunters/The Crusty Crew/Aseprite/::1706021287
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/::1706021293
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Crabby/::1706021295
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Crabby/01-Idle/::1706021502
+Idle 01.png::CompressedTexture2D::2042936354526089334::1706021295::1706021502::1::::<><>::
+Idle 02.png::CompressedTexture2D::8748005576848014059::1706021295::1706021502::1::::<><>::
+Idle 03.png::CompressedTexture2D::7989826714216116482::1706021295::1706021502::1::::<><>::
+Idle 04.png::CompressedTexture2D::4502616079232010535::1706021295::1706021502::1::::<><>::
+Idle 05.png::CompressedTexture2D::7387264814088374404::1706021295::1706021502::1::::<><>::
+Idle 06.png::CompressedTexture2D::3234977102124761293::1706021295::1706021502::1::::<><>::
+Idle 07.png::CompressedTexture2D::7246351395675193898::1706021295::1706021502::1::::<><>::
+Idle 08.png::CompressedTexture2D::52629930721105622::1706021295::1706021502::1::::<><>::
+Idle 09.png::CompressedTexture2D::2655423043463288600::1706021295::1706021501::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Crabby/02-Run/::1706021502
+Run 01.png::CompressedTexture2D::2936987988021265290::1706021294::1706021501::1::::<><>::
+Run 02.png::CompressedTexture2D::8031787781603251321::1706021294::1706021501::1::::<><>::
+Run 03.png::CompressedTexture2D::1409479469679966529::1706021294::1706021501::1::::<><>::
+Run 04.png::CompressedTexture2D::3664048816488579116::1706021294::1706021501::1::::<><>::
+Run 05.png::CompressedTexture2D::8227691992813201120::1706021294::1706021501::1::::<><>::
+Run 06.png::CompressedTexture2D::866992362659698115::1706021294::1706021501::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Crabby/03-Jump/::1706021501
+Jump 01.png::CompressedTexture2D::4364562161626697208::1706021294::1706021501::1::::<><>::
+Jump 02.png::CompressedTexture2D::880073202046186531::1706021294::1706021501::1::::<><>::
+Jump 03.png::CompressedTexture2D::5953858201854599816::1706021294::1706021501::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Crabby/04-Fall/::1706021501
+Fall 01.png::CompressedTexture2D::5497977148540249139::1706021295::1706021501::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Crabby/05-Ground/::1706021501
+Ground 01.png::CompressedTexture2D::9039402348220726521::1706021294::1706021501::1::::<><>::
+Ground 02.png::CompressedTexture2D::8237079205266230646::1706021294::1706021501::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Crabby/06-Anticipation/::1706021501
+Anticipation 01.png::CompressedTexture2D::3595522601065162300::1706021295::1706021501::1::::<><>::
+Anticipation 02.png::CompressedTexture2D::5793542571639055703::1706021295::1706021501::1::::<><>::
+Anticipation 03.png::CompressedTexture2D::4573415935678433569::1706021295::1706021501::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Crabby/07-Attack/::1706021501
+Attack 01.png::CompressedTexture2D::973293262642676992::1706021293::1706021501::1::::<><>::
+Attack 02.png::CompressedTexture2D::6580515692155992817::1706021293::1706021501::1::::<><>::
+Attack 03.png::CompressedTexture2D::273931718156245736::1706021293::1706021501::1::::<><>::
+Attack 04.png::CompressedTexture2D::7803488825022790509::1706021293::1706021501::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Crabby/08-Hit/::1706021501
+Hit 01.png::CompressedTexture2D::1240029704573991524::1706021294::1706021501::1::::<><>::
+Hit 02.png::CompressedTexture2D::775874629909068530::1706021294::1706021500::1::::<><>::
+Hit 03.png::CompressedTexture2D::2369326507289017196::1706021294::1706021500::1::::<><>::
+Hit 04.png::CompressedTexture2D::1274367462884503797::1706021294::1706021500::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Crabby/09-Dead Hit/::1706021501
+Dead Hit 01.png::CompressedTexture2D::3872605154056065863::1706021294::1706021500::1::::<><>::
+Dead Hit 02.png::CompressedTexture2D::8560656763043882688::1706021294::1706021500::1::::<><>::
+Dead Hit 03.png::CompressedTexture2D::256810728644831359::1706021294::1706021501::1::::<><>::
+Dead Hit 04.png::CompressedTexture2D::3293302627957462896::1706021294::1706021501::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Crabby/10-Dead Ground/::1706021501
+Dead Ground 01.png::CompressedTexture2D::6247802552419957593::1706021293::1706021501::1::::<><>::
+Dead Ground 02.png::CompressedTexture2D::8224668512893585617::1706021293::1706021501::1::::<><>::
+Dead Ground 03.png::CompressedTexture2D::6534327598158089697::1706021294::1706021501::1::::<><>::
+Dead Ground 04.png::CompressedTexture2D::4106916410867350000::1706021294::1706021501::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Crabby/11-Attack Effect/::1706021501
+Attack Effect 01.png::CompressedTexture2D::4225664170120575469::1706021295::1706021501::1::::<><>::
+Attack Effect 02.png::CompressedTexture2D::4872076792525972373::1706021295::1706021501::1::::<><>::
+Attack Effect 03.png::CompressedTexture2D::1740784000411639016::1706021295::1706021501::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Dialogue/::1706021293
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Dialogue/Dead/::1706021501
+Dead In 01.png::CompressedTexture2D::4009591290902571638::1706021293::1706021501::1::::<><>::
+Dead In 02.png::CompressedTexture2D::8624062058883414361::1706021292::1706021501::1::::<><>::
+Dead In 03.png::CompressedTexture2D::6225857293882200613::1706021293::1706021501::1::::<><>::
+Dead Out 01.png::CompressedTexture2D::1294710200084751758::1706021293::1706021501::1::::<><>::
+Dead Out 02.png::CompressedTexture2D::5869275966999602140::1706021293::1706021501::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Dialogue/Exclamation/::1706021501
+Exclamation In 01.png::CompressedTexture2D::4433049082871196314::1706021293::1706021501::1::::<><>::
+Exclamation In 02.png::CompressedTexture2D::868879192871225513::1706021293::1706021501::1::::<><>::
+Exclamation In 03.png::CompressedTexture2D::3348794856959475783::1706021293::1706021501::1::::<><>::
+Exclamation Out 01.png::CompressedTexture2D::9060012320466325866::1706021293::1706021501::1::::<><>::
+Exclamation Out 02.png::CompressedTexture2D::9097527245744964876::1706021293::1706021501::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Dialogue/Interrogation/::1706021498
+Interrogation In 01.png::CompressedTexture2D::1578838712053136012::1706021293::1706021498::1::::<><>::
+Interrogation In 02.png::CompressedTexture2D::4199608817634606258::1706021293::1706021498::1::::<><>::
+Interrogation In 03.png::CompressedTexture2D::3135934519776910866::1706021293::1706021498::1::::<><>::
+Interrogation Out 01.png::CompressedTexture2D::158424079179555808::1706021293::1706021498::1::::<><>::
+Interrogation Out 02.png::CompressedTexture2D::2231588248036264949::1706021293::1706021498::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Dust Particles/::1706021498
+Fall 01.png::CompressedTexture2D::8146694650126264895::1706021292::1706021498::1::::<><>::
+Fall 02.png::CompressedTexture2D::5009869910860607520::1706021292::1706021498::1::::<><>::
+Fall 03.png::CompressedTexture2D::4130170910556078745::1706021292::1706021498::1::::<><>::
+Fall 04.png::CompressedTexture2D::3813013988054220989::1706021292::1706021498::1::::<><>::
+Fall 05.png::CompressedTexture2D::4004480790531302582::1706021292::1706021498::1::::<><>::
+Jump 01.png::CompressedTexture2D::4734841495175029038::1706021292::1706021498::1::::<><>::
+Jump 02.png::CompressedTexture2D::4421406411491479365::1706021292::1706021498::1::::<><>::
+Jump 03.png::CompressedTexture2D::570052984198787242::1706021292::1706021498::1::::<><>::
+Jump 04.png::CompressedTexture2D::6329525756594168771::1706021292::1706021498::1::::<><>::
+Jump 05.png::CompressedTexture2D::7471260313067735264::1706021292::1706021498::1::::<><>::
+Jump 06.png::CompressedTexture2D::2490420701148814941::1706021292::1706021498::1::::<><>::
+Run 01.png::CompressedTexture2D::4241911843283800355::1706021292::1706021498::1::::<><>::
+Run 02.png::CompressedTexture2D::170964854977222156::1706021292::1706021498::1::::<><>::
+Run 03.png::CompressedTexture2D::1810905013567069876::1706021292::1706021498::1::::<><>::
+Run 04.png::CompressedTexture2D::4658257840345079441::1706021292::1706021498::1::::<><>::
+Run 05.png::CompressedTexture2D::45655148124200704::1706021292::1706021498::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Fierce Tooth/::1706021292
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Fierce Tooth/01-Idle/::1706021498
+Idle 01.png::CompressedTexture2D::4287574586263653546::1706021291::1706021498::1::::<><>::
+Idle 02.png::CompressedTexture2D::4408241155733804724::1706021291::1706021498::1::::<><>::
+Idle 03.png::CompressedTexture2D::4258843984733729122::1706021291::1706021498::1::::<><>::
+Idle 04.png::CompressedTexture2D::2075444968725882789::1706021291::1706021498::1::::<><>::
+Idle 05.png::CompressedTexture2D::3635842050051913653::1706021291::1706021498::1::::<><>::
+Idle 06.png::CompressedTexture2D::1335401164493925388::1706021291::1706021498::1::::<><>::
+Idle 07.png::CompressedTexture2D::3005204528213163741::1706021291::1706021498::1::::<><>::
+Idle 08.png::CompressedTexture2D::1035375537696386795::1706021291::1706021498::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Fierce Tooth/02-Run/::1706021498
+Run 01.png::CompressedTexture2D::3696228597823627951::1706021290::1706021498::1::::<><>::
+Run 02.png::CompressedTexture2D::7571765535558885147::1706021290::1706021498::1::::<><>::
+Run 03.png::CompressedTexture2D::5101563740237817502::1706021290::1706021498::1::::<><>::
+Run 04.png::CompressedTexture2D::2922289095870575951::1706021290::1706021498::1::::<><>::
+Run 05.png::CompressedTexture2D::6917156482100199837::1706021290::1706021498::1::::<><>::
+Run 06.png::CompressedTexture2D::4277458581910939745::1706021290::1706021498::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Fierce Tooth/03-Jump/::1706021498
+Jump 01.png::CompressedTexture2D::4330936804413831672::1706021290::1706021498::1::::<><>::
+Jump 02.png::CompressedTexture2D::3493156576488980750::1706021290::1706021498::1::::<><>::
+Jump 03.png::CompressedTexture2D::574220325975377677::1706021290::1706021498::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Fierce Tooth/04-Fall/::1706021498
+Fall 01.png::CompressedTexture2D::4528980084342906488::1706021292::1706021498::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Fierce Tooth/05-Ground/::1706021498
+Ground 01.png::CompressedTexture2D::8631063750034053244::1706021291::1706021498::1::::<><>::
+Ground 02.png::CompressedTexture2D::4878297186471581865::1706021291::1706021498::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Fierce Tooth/06-Anticipation/::1706021498
+Anticipation 01.png::CompressedTexture2D::3392395919756600725::1706021292::1706021498::1::::<><>::
+Anticipation 02.png::CompressedTexture2D::8893775218340659217::1706021292::1706021498::1::::<><>::
+Anticipation 03.png::CompressedTexture2D::8161252893914455018::1706021292::1706021498::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Fierce Tooth/07-Attack/::1706021498
+Attack 01.png::CompressedTexture2D::8236022295104798158::1706021290::1706021498::1::::<><>::
+Attack 02.png::CompressedTexture2D::7072150979256134645::1706021290::1706021498::1::::<><>::
+Attack 03.png::CompressedTexture2D::1775600956248881099::1706021290::1706021498::1::::<><>::
+Attack 04.png::CompressedTexture2D::7274354782439217668::1706021290::1706021498::1::::<><>::
+Attack 05.png::CompressedTexture2D::2878834204157413040::1706021290::1706021497::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Fierce Tooth/08-Hit/::1706021498
+Hit 01.png::CompressedTexture2D::8327397218911561849::1706021291::1706021497::1::::<><>::
+Hit 02.png::CompressedTexture2D::3814833217848655693::1706021291::1706021497::1::::<><>::
+Hit 03.png::CompressedTexture2D::8881456235842776876::1706021291::1706021497::1::::<><>::
+Hit 04.png::CompressedTexture2D::1005110075736772361::1706021290::1706021497::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Fierce Tooth/09-Dead Hit/::1706021498
+Dead Hit 01.png::CompressedTexture2D::4080409524139874020::1706021291::1706021497::1::::<><>::
+Dead Hit 02.png::CompressedTexture2D::5062019857196518973::1706021291::1706021497::1::::<><>::
+Dead Hit 03.png::CompressedTexture2D::3770598440711631908::1706021291::1706021497::1::::<><>::
+Dead Hit 04.png::CompressedTexture2D::4331645173035239697::1706021291::1706021498::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Fierce Tooth/10-Dead Ground/::1706021498
+Dead Ground 01.png::CompressedTexture2D::7584400435203411928::1706021290::1706021498::1::::<><>::
+Dead Ground 02.png::CompressedTexture2D::3460455380082683524::1706021290::1706021498::1::::<><>::
+Dead Ground 03.png::CompressedTexture2D::3379226965236320533::1706021290::1706021498::1::::<><>::
+Dead Ground 04.png::CompressedTexture2D::7705509427498941731::1706021290::1706021498::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Fierce Tooth/11-Attack Effect/::1706021498
+Attack Effect 01.png::CompressedTexture2D::9020655276649492024::1706021291::1706021498::1::::<><>::
+Attack Effect 02.png::CompressedTexture2D::1039346600640539992::1706021291::1706021498::1::::<><>::
+Attack Effect 03.png::CompressedTexture2D::2284694161944983504::1706021291::1706021498::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Pink Star/::1706021289
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Pink Star/01-Idle/::1706021498
+Idle 01.png::CompressedTexture2D::4329910453551307077::1706021289::1706021498::1::::<><>::
+Idle 02.png::CompressedTexture2D::8266185131447770746::1706021289::1706021498::1::::<><>::
+Idle 03.png::CompressedTexture2D::4819214016602516251::1706021289::1706021498::1::::<><>::
+Idle 04.png::CompressedTexture2D::5588418236920171390::1706021289::1706021498::1::::<><>::
+Idle 05.png::CompressedTexture2D::3847244428232105925::1706021289::1706021498::1::::<><>::
+Idle 06.png::CompressedTexture2D::3963090237754187433::1706021289::1706021498::1::::<><>::
+Idle 07.png::CompressedTexture2D::459589089755042338::1706021289::1706021498::1::::<><>::
+Idle 08.png::CompressedTexture2D::1099711363740435420::1706021289::1706021498::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Pink Star/02-Run/::1706021499
+Run 01.png::CompressedTexture2D::5896625952807482745::1706021288::1706021498::1::::<><>::
+Run 02.png::CompressedTexture2D::5965341380519573091::1706021288::1706021498::1::::<><>::
+Run 03.png::CompressedTexture2D::5892222701288273194::1706021288::1706021498::1::::<><>::
+Run 04.png::CompressedTexture2D::7700264161591599254::1706021288::1706021499::1::::<><>::
+Run 05.png::CompressedTexture2D::5839529596933152391::1706021288::1706021499::1::::<><>::
+Run 06.png::CompressedTexture2D::5316813157791271456::1706021288::1706021499::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Pink Star/03-Jump/::1706021499
+Jump 01.png::CompressedTexture2D::4863713965112450329::1706021288::1706021499::1::::<><>::
+Jump 02.png::CompressedTexture2D::9032811565125753527::1706021288::1706021499::1::::<><>::
+Jump 03.png::CompressedTexture2D::1221510544539727846::1706021288::1706021499::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Pink Star/04-Fall/::1706021499
+Fall 01.png::CompressedTexture2D::6818475031414426316::1706021289::1706021499::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Pink Star/05-Ground/::1706021499
+Ground 01.png::CompressedTexture2D::7474778680756925433::1706021289::1706021499::1::::<><>::
+Ground 02.png::CompressedTexture2D::2085857959965623597::1706021289::1706021499::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Pink Star/06-Anticipation/::1706021499
+Anticipation 01.png::CompressedTexture2D::3954980449364147222::1706021290::1706021499::1::::<><>::
+Anticipation 02.png::CompressedTexture2D::3320299770258071156::1706021289::1706021499::1::::<><>::
+Anticipation 03.png::CompressedTexture2D::992164077643051320::1706021290::1706021499::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Pink Star/07-Attack/::1706021499
+Attack 01.png::CompressedTexture2D::450659924689811268::1706021288::1706021499::1::::<><>::
+Attack 02.png::CompressedTexture2D::6315691916603237267::1706021288::1706021499::1::::<><>::
+Attack 03.png::CompressedTexture2D::1529478167548217917::1706021288::1706021499::1::::<><>::
+Attack 04.png::CompressedTexture2D::4690175507439947355::1706021288::1706021499::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Pink Star/08-Hit/::1706021499
+Hit 01.png::CompressedTexture2D::2836694423662573780::1706021288::1706021499::1::::<><>::
+Hit 02.png::CompressedTexture2D::2380557668991813859::1706021288::1706021499::1::::<><>::
+Hit 03.png::CompressedTexture2D::3003877837207386294::1706021288::1706021499::1::::<><>::
+Hit 04.png::CompressedTexture2D::7626215317606998415::1706021288::1706021499::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Pink Star/09-Dead Hit/::1706021499
+Dead Hit 01.png::CompressedTexture2D::2901294099301005170::1706021289::1706021499::1::::<><>::
+Dead Hit 02.png::CompressedTexture2D::5151584162446505373::1706021289::1706021499::1::::<><>::
+Dead Hit 03.png::CompressedTexture2D::1109304534307311196::1706021289::1706021499::1::::<><>::
+Dead Hit 04.png::CompressedTexture2D::8396557991781819566::1706021289::1706021499::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Pink Star/10-Dead Ground/::1706021499
+Dead Ground 01.png::CompressedTexture2D::8576120789992659175::1706021288::1706021499::1::::<><>::
+Dead Ground 02.png::CompressedTexture2D::7959666605628637639::1706021288::1706021499::1::::<><>::
+Dead Ground 03.png::CompressedTexture2D::4945690613818718811::1706021288::1706021499::1::::<><>::
+Dead Ground 04.png::CompressedTexture2D::3107739057111179455::1706021288::1706021499::1::::<><>::
+::res://sptites/Treasure Hunters/The Crusty Crew/Sprites/Pink Star/11-Attack Effect/::1706021499
+Attack Effect 01.png::CompressedTexture2D::5849562793385131418::1706021289::1706021499::1::::<><>::
+Attack Effect 02.png::CompressedTexture2D::5928699852368572475::1706021289::1706021499::1::::<><>::
+Attack Effect 03.png::CompressedTexture2D::6260408564995118145::1706021289::1706021499::1::::<><>::
+Attack Effect 04.png::CompressedTexture2D::3885469602863166177::1706021289::1706021499::1::::<><>::
+::res://sptites/Treasure Hunters/Wood and Paper UI/::1706021296
+::res://sptites/Treasure Hunters/Wood and Paper UI/Aseprite/::1706021295
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/::1706021310
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Big Banner/::1706021499
+1.png::CompressedTexture2D::2195464379894007772::1706021299::1706021499::1::::<><>::
+2.png::CompressedTexture2D::128750162721578157::1706021299::1706021499::1::::<><>::
+3.png::CompressedTexture2D::9054591578541150020::1706021299::1706021499::1::::<><>::
+4.png::CompressedTexture2D::3497365661545994813::1706021299::1706021499::1::::<><>::
+5.png::CompressedTexture2D::5762465359938265419::1706021299::1706021499::1::::<><>::
+6.png::CompressedTexture2D::1565622472626651073::1706021299::1706021499::1::::<><>::
+7.png::CompressedTexture2D::5840683657182792891::1706021299::1706021499::1::::<><>::
+8.png::CompressedTexture2D::3962825263616566511::1706021298::1706021499::1::::<><>::
+9.png::CompressedTexture2D::3073653066603998871::1706021298::1706021499::1::::<><>::
+10.png::CompressedTexture2D::7147158141672673849::1706021298::1706021499::1::::<><>::
+11.png::CompressedTexture2D::38025602524366089::1706021298::1706021499::1::::<><>::
+12.png::CompressedTexture2D::9088722568386766264::1706021298::1706021499::1::::<><>::
+13.png::CompressedTexture2D::2464736819970518701::1706021298::1706021499::1::::<><>::
+14.png::CompressedTexture2D::2580169259884718768::1706021298::1706021499::1::::<><>::
+15.png::CompressedTexture2D::725325315401819205::1706021298::1706021499::1::::<><>::
+16.png::CompressedTexture2D::9201184709692413523::1706021298::1706021499::1::::<><>::
+17.png::CompressedTexture2D::7450834167632386573::1706021298::1706021499::1::::<><>::
+18.png::CompressedTexture2D::763587179054757117::1706021299::1706021498::1::::<><>::
+19.png::CompressedTexture2D::1176195995538328024::1706021299::1706021498::1::::<><>::
+20.png::CompressedTexture2D::1824220425822620197::1706021298::1706021498::1::::<><>::
+21.png::CompressedTexture2D::5543542837730709639::1706021298::1706021498::1::::<><>::
+22.png::CompressedTexture2D::1081932254301364846::1706021298::1706021498::1::::<><>::
+23.png::CompressedTexture2D::834686705791164068::1706021298::1706021498::1::::<><>::
+24.png::CompressedTexture2D::6236186066534058701::1706021299::1706021498::1::::<><>::
+25.png::CompressedTexture2D::7373678924295718394::1706021299::1706021499::1::::<><>::
+26.png::CompressedTexture2D::4495093406440274673::1706021299::1706021499::1::::<><>::
+27.png::CompressedTexture2D::1888993679782438455::1706021299::1706021499::1::::<><>::
+28.png::CompressedTexture2D::3952785180199885694::1706021298::1706021499::1::::<><>::
+29.png::CompressedTexture2D::8332870473876328320::1706021298::1706021499::1::::<><>::
+30.png::CompressedTexture2D::7404461054565500585::1706021299::1706021499::1::::<><>::
+31.png::CompressedTexture2D::9004427970543846786::1706021299::1706021499::1::::<><>::
+32.png::CompressedTexture2D::8184654783258091697::1706021299::1706021499::1::::<><>::
+33.png::CompressedTexture2D::1109373811463159069::1706021299::1706021499::1::::<><>::
+Big Banner (guide).png::CompressedTexture2D::3061317023549898269::1706021298::1706021499::1::::<><>::
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Big Text/::1706021506
+1.png::CompressedTexture2D::6254434897562905912::1706021311::1706021499::1::::<><>::
+2.png::CompressedTexture2D::4669486498827016359::1706021311::1706021499::1::::<><>::
+3.png::CompressedTexture2D::4183110432110543285::1706021311::1706021499::1::::<><>::
+4.png::CompressedTexture2D::891867198613489782::1706021311::1706021499::1::::<><>::
+5.png::CompressedTexture2D::8031408154556808621::1706021311::1706021499::1::::<><>::
+6.png::CompressedTexture2D::6035105243644550049::1706021311::1706021499::1::::<><>::
+7.png::CompressedTexture2D::3085693725554709441::1706021311::1706021499::1::::<><>::
+8.png::CompressedTexture2D::978933895789880912::1706021310::1706021499::1::::<><>::
+9.png::CompressedTexture2D::5328243898989186678::1706021310::1706021499::1::::<><>::
+10.png::CompressedTexture2D::3146238490689234801::1706021310::1706021506::1::::<><>::
+11.png::CompressedTexture2D::6003054523870848955::1706021310::1706021506::1::::<><>::
+12.png::CompressedTexture2D::6607711560552436714::1706021310::1706021506::1::::<><>::
+13.png::CompressedTexture2D::4713870364335040376::1706021310::1706021506::1::::<><>::
+14.png::CompressedTexture2D::8385466628079651110::1706021310::1706021506::1::::<><>::
+15.png::CompressedTexture2D::6598070218025762477::1706021310::1706021506::1::::<><>::
+16.png::CompressedTexture2D::3837152951108838537::1706021310::1706021505::1::::<><>::
+17.png::CompressedTexture2D::621018906680138862::1706021310::1706021505::1::::<><>::
+18.png::CompressedTexture2D::2132006483450271579::1706021311::1706021505::1::::<><>::
+19.png::CompressedTexture2D::905592552163858879::1706021311::1706021505::1::::<><>::
+20.png::CompressedTexture2D::6336016337768213725::1706021311::1706021505::1::::<><>::
+21.png::CompressedTexture2D::7729315655139344987::1706021310::1706021505::1::::<><>::
+22.png::CompressedTexture2D::6378773891283152427::1706021311::1706021505::1::::<><>::
+23.png::CompressedTexture2D::6125856706774836144::1706021311::1706021505::1::::<><>::
+24.png::CompressedTexture2D::6609581482404756364::1706021311::1706021505::1::::<><>::
+25.png::CompressedTexture2D::4265704861043287436::1706021311::1706021505::1::::<><>::
+26.png::CompressedTexture2D::4012419483328576529::1706021311::1706021505::1::::<><>::
+27.png::CompressedTexture2D::8819943436885851952::1706021311::1706021505::1::::<><>::
+28.png::CompressedTexture2D::5803442924793291608::1706021310::1706021505::1::::<><>::
+29.png::CompressedTexture2D::8649237176907908217::1706021310::1706021506::1::::<><>::
+30.png::CompressedTexture2D::7229503918136291848::1706021311::1706021506::1::::<><>::
+31.png::CompressedTexture2D::7104566216410749486::1706021311::1706021506::1::::<><>::
+32.png::CompressedTexture2D::6065039210758992758::1706021311::1706021506::1::::<><>::
+33.png::CompressedTexture2D::5892278952337405325::1706021311::1706021506::1::::<><>::
+34.png::CompressedTexture2D::855418547395590131::1706021311::1706021506::1::::<><>::
+35.png::CompressedTexture2D::8147026472907851102::1706021310::1706021506::1::::<><>::
+36.png::CompressedTexture2D::6839759750495225656::1706021311::1706021506::1::::<><>::
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Green Board/::1706021506
+1.png::CompressedTexture2D::8821640855173468281::1706021307::1706021506::1::::<><>::
+2.png::CompressedTexture2D::3685516603791182241::1706021307::1706021506::1::::<><>::
+3.png::CompressedTexture2D::4457987805529396547::1706021307::1706021506::1::::<><>::
+4.png::CompressedTexture2D::857798740682613027::1706021307::1706021506::1::::<><>::
+5.png::CompressedTexture2D::8149924051023886469::1706021307::1706021506::1::::<><>::
+6.png::CompressedTexture2D::8278800990627025746::1706021307::1706021506::1::::<><>::
+7.png::CompressedTexture2D::5387621357778083796::1706021307::1706021506::1::::<><>::
+8.png::CompressedTexture2D::1845890181729691728::1706021306::1706021506::1::::<><>::
+9.png::CompressedTexture2D::7530220575632986175::1706021306::1706021506::1::::<><>::
+10.png::CompressedTexture2D::1108730010490143411::1706021307::1706021506::1::::<><>::
+11.png::CompressedTexture2D::1001755731967155693::1706021307::1706021506::1::::<><>::
+12.png::CompressedTexture2D::1357395182632988327::1706021307::1706021505::1::::<><>::
+13.png::CompressedTexture2D::4000259074469108596::1706021307::1706021505::1::::<><>::
+14.png::CompressedTexture2D::2387011006022361827::1706021306::1706021505::1::::<><>::
+15.png::CompressedTexture2D::2542309722203587048::1706021307::1706021505::1::::<><>::
+16.png::CompressedTexture2D::4104225473617663040::1706021307::1706021505::1::::<><>::
+Green Board (guide).png::CompressedTexture2D::5811381884302359636::1706021307::1706021505::1::::<><>::
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Green Button/::1706021505
+1.png::CompressedTexture2D::2210084153579538556::1706021296::1706021505::1::::<><>::
+2.png::CompressedTexture2D::7210384709707977034::1706021296::1706021505::1::::<><>::
+3.png::CompressedTexture2D::9217345903388120661::1706021296::1706021505::1::::<><>::
+4.png::CompressedTexture2D::5772975394799053313::1706021296::1706021505::1::::<><>::
+5.png::CompressedTexture2D::8267115594782758642::1706021296::1706021505::1::::<><>::
+6.png::CompressedTexture2D::4652979713381369881::1706021296::1706021505::1::::<><>::
+7.png::CompressedTexture2D::3142844562058542911::1706021296::1706021505::1::::<><>::
+8.png::CompressedTexture2D::4795337281653148226::1706021296::1706021505::1::::<><>::
+9.png::CompressedTexture2D::6061068762709364363::1706021296::1706021505::1::::<><>::
+10.png::CompressedTexture2D::1066589744475190762::1706021296::1706021504::1::::<><>::
+11.png::CompressedTexture2D::8968560127113402930::1706021296::1706021504::1::::<><>::
+12.png::CompressedTexture2D::1528670888263399883::1706021296::1706021504::1::::<><>::
+13.png::CompressedTexture2D::8565802060429803230::1706021296::1706021505::1::::<><>::
+14.png::CompressedTexture2D::7838742229096848231::1706021296::1706021505::1::::<><>::
+15.png::CompressedTexture2D::5679554676976451505::1706021296::1706021505::1::::<><>::
+16.png::CompressedTexture2D::3559464690360744992::1706021296::1706021505::1::::<><>::
+Green Button (guide).png::CompressedTexture2D::1960868694444909867::1706021296::1706021505::1::::<><>::
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Inventory/::1706021507
+1.png::CompressedTexture2D::5845839757854697974::1706021306::1706021505::1::::<><>::
+2.png::CompressedTexture2D::7082831107662097226::1706021306::1706021505::1::::<><>::
+3.png::CompressedTexture2D::8221732344300651247::1706021306::1706021505::1::::<><>::
+4.png::CompressedTexture2D::8363402167332123573::1706021306::1706021505::1::::<><>::
+5.png::CompressedTexture2D::234955591837466535::1706021306::1706021505::1::::<><>::
+6.png::CompressedTexture2D::3397064912752097197::1706021306::1706021505::1::::<><>::
+7.png::CompressedTexture2D::8180914453990939117::1706021306::1706021505::1::::<><>::
+8.png::CompressedTexture2D::8879954997463190426::1706021306::1706021505::1::::<><>::
+9.png::CompressedTexture2D::3709552837848587852::1706021306::1706021505::1::::<><>::
+10.png::CompressedTexture2D::4942219121571163975::1706021306::1706021505::1::::<><>::
+11.png::CompressedTexture2D::1918923165741164835::1706021306::1706021505::1::::<><>::
+12.png::CompressedTexture2D::7490108424364605443::1706021306::1706021505::1::::<><>::
+13.png::CompressedTexture2D::440283073131774281::1706021306::1706021505::1::::<><>::
+14.png::CompressedTexture2D::1535597416698775019::1706021306::1706021505::1::::<><>::
+15.png::CompressedTexture2D::7286558786097426844::1706021306::1706021507::1::::<><>::
+16.png::CompressedTexture2D::7706273034760350589::1706021306::1706021507::1::::<><>::
+Inventory (guide).png::CompressedTexture2D::1231983486652815064::1706021306::1706021507::1::::<><>::
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Life Bars/::1706021297
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Life Bars/Big Bars/::1706021507
+1.png::CompressedTexture2D::4148154498811313920::1706021297::1706021507::1::::<><>::
+2.png::CompressedTexture2D::3196261982029156647::1706021297::1706021507::1::::<><>::
+3.png::CompressedTexture2D::1636128107585339747::1706021297::1706021507::1::::<><>::
+4.png::CompressedTexture2D::7910508051011318198::1706021297::1706021507::1::::<><>::
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Life Bars/Colors/::1706021507
+1.png::CompressedTexture2D::5010237718666002044::1706021297::1706021507::1::::<><>::
+2.png::CompressedTexture2D::533887077812330045::1706021297::1706021507::1::::<><>::
+3.png::CompressedTexture2D::7880091726217840550::1706021297::1706021507::1::::<><>::
+4.png::CompressedTexture2D::8110782670875468242::1706021297::1706021507::1::::<><>::
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Life Bars/Medium Bars/::1706021507
+1.png::CompressedTexture2D::4242205893820646603::1706021297::1706021507::1::::<><>::
+2.png::CompressedTexture2D::1818785537603080696::1706021297::1706021507::1::::<><>::
+3.png::CompressedTexture2D::4997186605911145375::1706021297::1706021507::1::::<><>::
+4.png::CompressedTexture2D::8769339304877420958::1706021297::1706021507::1::::<><>::
+5.png::CompressedTexture2D::9182069269791026699::1706021297::1706021507::1::::<><>::
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Life Bars/Small Bars/::1706021507
+1.png::CompressedTexture2D::3731101010267033077::1706021298::1706021507::1::::<><>::
+2.png::CompressedTexture2D::406424645425379936::1706021298::1706021507::1::::<><>::
+3.png::CompressedTexture2D::5610808208734875305::1706021298::1706021507::1::::<><>::
+4.png::CompressedTexture2D::1327740531811680219::1706021297::1706021507::1::::<><>::
+5.png::CompressedTexture2D::279622896832828875::1706021298::1706021507::1::::<><>::
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Mobile Buttons/::1706021300
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Mobile Buttons/Mobile Buttons/::1706021507
+1.png::CompressedTexture2D::3495216441546013929::1706021300::1706021507::1::::<><>::
+2.png::CompressedTexture2D::7047089068634105277::1706021300::1706021507::1::::<><>::
+3.png::CompressedTexture2D::7140600172022245272::1706021300::1706021507::1::::<><>::
+4.png::CompressedTexture2D::9145700385433485985::1706021299::1706021507::1::::<><>::
+5.png::CompressedTexture2D::2381362040854801021::1706021299::1706021507::1::::<><>::
+6.png::CompressedTexture2D::7445482617819004533::1706021300::1706021507::1::::<><>::
+7.png::CompressedTexture2D::9165235139644078642::1706021300::1706021507::1::::<><>::
+8.png::CompressedTexture2D::5457180701493523027::1706021299::1706021507::1::::<><>::
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Mobile Buttons/Mobile Buttons Cooldown/::1706021507
+1.png::CompressedTexture2D::4898726869538690827::1706021300::1706021507::1::::<><>::
+2.png::CompressedTexture2D::139511384688776711::1706021300::1706021507::1::::<><>::
+3.png::CompressedTexture2D::3523731989713148441::1706021300::1706021507::1::::<><>::
+4.png::CompressedTexture2D::1385792246348931345::1706021300::1706021507::1::::<><>::
+5.png::CompressedTexture2D::8287441140561846355::1706021300::1706021507::1::::<><>::
+6.png::CompressedTexture2D::9102211515975533751::1706021300::1706021507::1::::<><>::
+7.png::CompressedTexture2D::310269497604886987::1706021300::1706021507::1::::<><>::
+8.png::CompressedTexture2D::4594185119471894871::1706021300::1706021507::1::::<><>::
+9.png::CompressedTexture2D::4937671492791209985::1706021300::1706021507::1::::<><>::
+10.png::CompressedTexture2D::212319508830018897::1706021300::1706021506::1::::<><>::
+11.png::CompressedTexture2D::986278270985354176::1706021300::1706021506::1::::<><>::
+12.png::CompressedTexture2D::5745460345265915036::1706021300::1706021506::1::::<><>::
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Orange Paper/::1706021507
+1.png::CompressedTexture2D::8744771746464469112::1706021306::1706021506::1::::<><>::
+2.png::CompressedTexture2D::3072836050953402273::1706021305::1706021506::1::::<><>::
+3.png::CompressedTexture2D::7874901582129061922::1706021306::1706021506::1::::<><>::
+4.png::CompressedTexture2D::2790965144270143872::1706021305::1706021506::1::::<><>::
+5.png::CompressedTexture2D::7249542145984037447::1706021305::1706021506::1::::<><>::
+6.png::CompressedTexture2D::1670150225294232953::1706021305::1706021506::1::::<><>::
+7.png::CompressedTexture2D::3797051960029363847::1706021305::1706021506::1::::<><>::
+8.png::CompressedTexture2D::7156805720605752623::1706021305::1706021506::1::::<><>::
+9.png::CompressedTexture2D::3286323197510862682::1706021305::1706021506::1::::<><>::
+10.png::CompressedTexture2D::1848264030025664159::1706021305::1706021506::1::::<><>::
+11.png::CompressedTexture2D::1034945881961551492::1706021305::1706021506::1::::<><>::
+12.png::CompressedTexture2D::5563758878845776123::1706021305::1706021506::1::::<><>::
+13.png::CompressedTexture2D::4365058695044969013::1706021305::1706021506::1::::<><>::
+14.png::CompressedTexture2D::8550024691289769543::1706021305::1706021506::1::::<><>::
+15.png::CompressedTexture2D::7262942289675910361::1706021305::1706021506::1::::<><>::
+16.png::CompressedTexture2D::9105013395920229865::1706021305::1706021506::1::::<><>::
+Orange Paper (guide).png::CompressedTexture2D::4275891393161352189::1706021305::1706021507::1::::<><>::
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Prefabs/::1706021507
+1.png::CompressedTexture2D::6457249282017874250::1706021297::1706021507::1::::<><>::
+2.png::CompressedTexture2D::1322158602206600240::1706021297::1706021507::1::::<><>::
+3.png::CompressedTexture2D::1050094878479191591::1706021297::1706021507::1::::<><>::
+4.png::CompressedTexture2D::5694455262933942151::1706021297::1706021507::1::::<><>::
+5.png::CompressedTexture2D::8138953052762179976::1706021297::1706021507::1::::<><>::
+6.png::CompressedTexture2D::6241329971596674798::1706021297::1706021507::1::::<><>::
+7.png::CompressedTexture2D::5033875160976587286::1706021297::1706021507::1::::<><>::
+8.png::CompressedTexture2D::5773152772954839546::1706021296::1706021507::1::::<><>::
+9.png::CompressedTexture2D::5860364099410385787::1706021296::1706021507::1::::<><>::
+10.png::CompressedTexture2D::7170274298008051676::1706021297::1706021506::1::::<><>::
+11.png::CompressedTexture2D::1633577790354848155::1706021296::1706021506::1::::<><>::
+12.png::CompressedTexture2D::3176612352857066743::1706021296::1706021506::1::::<><>::
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Sliders/::1706021507
+1.png::CompressedTexture2D::6118066769129783734::1706021309::1706021506::1::::<><>::
+2.png::CompressedTexture2D::3093054061817343382::1706021309::1706021506::1::::<><>::
+3.png::CompressedTexture2D::5975575419572851396::1706021309::1706021507::1::::<><>::
+4.png::CompressedTexture2D::8976731445427425541::1706021309::1706021506::1::::<><>::
+5.png::CompressedTexture2D::2358411074853122474::1706021309::1706021506::1::::<><>::
+6.png::CompressedTexture2D::5933474207332244887::1706021309::1706021506::1::::<><>::
+7.png::CompressedTexture2D::3241921184583358344::1706021309::1706021503::1::::<><>::
+8.png::CompressedTexture2D::8236057280449170944::1706021309::1706021503::1::::<><>::
+9.png::CompressedTexture2D::2312178984566720058::1706021309::1706021503::1::::<><>::
+10.png::CompressedTexture2D::6410532730573023329::1706021309::1706021503::1::::<><>::
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Small Banner/::1706021503
+1.png::CompressedTexture2D::3033550987029256968::1706021308::1706021503::1::::<><>::
+2.png::CompressedTexture2D::2247652672472568959::1706021308::1706021503::1::::<><>::
+3.png::CompressedTexture2D::4132454738645388033::1706021308::1706021503::1::::<><>::
+4.png::CompressedTexture2D::3636905859674631654::1706021307::1706021503::1::::<><>::
+5.png::CompressedTexture2D::4991664772365955480::1706021308::1706021503::1::::<><>::
+6.png::CompressedTexture2D::8383860051202574962::1706021308::1706021503::1::::<><>::
+7.png::CompressedTexture2D::7327223170451603838::1706021308::1706021503::1::::<><>::
+8.png::CompressedTexture2D::3726306739514164513::1706021307::1706021503::1::::<><>::
+9.png::CompressedTexture2D::5039601555542212737::1706021307::1706021503::1::::<><>::
+10.png::CompressedTexture2D::6625757864373776270::1706021307::1706021503::1::::<><>::
+11.png::CompressedTexture2D::4564547200414283096::1706021307::1706021503::1::::<><>::
+12.png::CompressedTexture2D::82846156949212648::1706021307::1706021502::1::::<><>::
+13.png::CompressedTexture2D::3214003520930638149::1706021307::1706021502::1::::<><>::
+Small Banner (guide).png::CompressedTexture2D::3358012967434534399::1706021307::1706021502::1::::<><>::
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Small Text/::1706021302
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Small Text/Small Icons/::1706021503
+1.png::CompressedTexture2D::6418158195074690399::1706021302::1706021502::1::::<><>::
+2.png::CompressedTexture2D::3408035460492705078::1706021302::1706021503::1::::<><>::
+3.png::CompressedTexture2D::690976391082989168::1706021302::1706021503::1::::<><>::
+4.png::CompressedTexture2D::1614822029511500823::1706021302::1706021503::1::::<><>::
+5.png::CompressedTexture2D::891481409366830463::1706021302::1706021503::1::::<><>::
+6.png::CompressedTexture2D::2600893040920307595::1706021302::1706021503::1::::<><>::
+7.png::CompressedTexture2D::6589673151613028013::1706021302::1706021503::1::::<><>::
+8.png::CompressedTexture2D::4174624977779397853::1706021301::1706021503::1::::<><>::
+9.png::CompressedTexture2D::7598390489158626957::1706021301::1706021503::1::::<><>::
+10.png::CompressedTexture2D::257351586644474497::1706021302::1706021503::1::::<><>::
+11.png::CompressedTexture2D::4362534043064469512::1706021302::1706021503::1::::<><>::
+12.png::CompressedTexture2D::7524796972468464884::1706021302::1706021503::1::::<><>::
+13.png::CompressedTexture2D::4108614121475094832::1706021302::1706021503::1::::<><>::
+14.png::CompressedTexture2D::5072396583029384027::1706021301::1706021503::1::::<><>::
+15.png::CompressedTexture2D::826374054302596978::1706021301::1706021503::1::::<><>::
+16.png::CompressedTexture2D::3473488046565767857::1706021302::1706021503::1::::<><>::
+17.png::CompressedTexture2D::9149969648874951255::1706021301::1706021503::1::::<><>::
+18.png::CompressedTexture2D::4067737536774203522::1706021302::1706021503::1::::<><>::
+19.png::CompressedTexture2D::3540612270699462310::1706021302::1706021503::1::::<><>::
+20.png::CompressedTexture2D::1866358997297803254::1706021302::1706021503::1::::<><>::
+21.png::CompressedTexture2D::2082737002564555262::1706021302::1706021502::1::::<><>::
+22.png::CompressedTexture2D::774373750840567925::1706021302::1706021502::1::::<><>::
+23.png::CompressedTexture2D::5760617710332977433::1706021302::1706021502::1::::<><>::
+24.png::CompressedTexture2D::1680085341956441559::1706021302::1706021502::1::::<><>::
+25.png::CompressedTexture2D::6217516738107602876::1706021302::1706021502::1::::<><>::
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Small Text/Small Text/::1706021505
+1.png::CompressedTexture2D::5498150676554027887::1706021305::1706021502::1::::<><>::
+2.png::CompressedTexture2D::8732062061444332010::1706021304::1706021502::1::::<><>::
+3.png::CompressedTexture2D::1829509082025857246::1706021304::1706021502::1::::<><>::
+4.png::CompressedTexture2D::5596224508858825343::1706021304::1706021502::1::::<><>::
+5.png::CompressedTexture2D::6356076060769634403::1706021304::1706021502::1::::<><>::
+6.png::CompressedTexture2D::4803625553022482831::1706021304::1706021502::1::::<><>::
+7.png::CompressedTexture2D::7273455149017534174::1706021304::1706021502::1::::<><>::
+8.png::CompressedTexture2D::6583421761973586570::1706021303::1706021502::1::::<><>::
+9.png::CompressedTexture2D::1552576108291685966::1706021303::1706021502::1::::<><>::
+10.png::CompressedTexture2D::348215754231030512::1706021303::1706021502::1::::<><>::
+11.png::CompressedTexture2D::4663317734371486171::1706021303::1706021502::1::::<><>::
+12.png::CompressedTexture2D::393022536971283120::1706021303::1706021502::1::::<><>::
+13.png::CompressedTexture2D::6409921268546009934::1706021303::1706021502::1::::<><>::
+14.png::CompressedTexture2D::4364710718037221602::1706021303::1706021502::1::::<><>::
+15.png::CompressedTexture2D::3004887855997878896::1706021303::1706021502::1::::<><>::
+16.png::CompressedTexture2D::7772699150651734776::1706021303::1706021502::1::::<><>::
+17.png::CompressedTexture2D::1327288622712577011::1706021303::1706021502::1::::<><>::
+18.png::CompressedTexture2D::5721706274178413214::1706021304::1706021502::1::::<><>::
+19.png::CompressedTexture2D::8405879827791210076::1706021304::1706021502::1::::<><>::
+20.png::CompressedTexture2D::2601610346291619222::1706021303::1706021502::1::::<><>::
+21.png::CompressedTexture2D::7948744131728727737::1706021303::1706021502::1::::<><>::
+22.png::CompressedTexture2D::5734064632198356184::1706021303::1706021502::1::::<><>::
+23.png::CompressedTexture2D::7543776635951043085::1706021303::1706021502::1::::<><>::
+24.png::CompressedTexture2D::8135474243579889604::1706021304::1706021502::1::::<><>::
+25.png::CompressedTexture2D::3486543738908444401::1706021304::1706021502::1::::<><>::
+26.png::CompressedTexture2D::6462893481476098321::1706021304::1706021502::1::::<><>::
+27.png::CompressedTexture2D::8589614178252713203::1706021304::1706021502::1::::<><>::
+28.png::CompressedTexture2D::7882396685547104266::1706021303::1706021502::1::::<><>::
+29.png::CompressedTexture2D::7096952078613009854::1706021303::1706021502::1::::<><>::
+30.png::CompressedTexture2D::6615570344986667160::1706021304::1706021502::1::::<><>::
+31.png::CompressedTexture2D::6076959579458642465::1706021304::1706021502::1::::<><>::
+32.png::CompressedTexture2D::6442296023034500439::1706021304::1706021502::1::::<><>::
+33.png::CompressedTexture2D::5442897354958519654::1706021304::1706021504::1::::<><>::
+34.png::CompressedTexture2D::4397786775703828854::1706021303::1706021504::1::::<><>::
+35.png::CompressedTexture2D::2187211735089848731::1706021303::1706021504::1::::<><>::
+36.png::CompressedTexture2D::2551227360354592982::1706021303::1706021504::1::::<><>::
+37.png::CompressedTexture2D::1880192786572980221::1706021303::1706021504::1::::<><>::
+38.png::CompressedTexture2D::5351480410368873801::1706021303::1706021504::1::::<><>::
+39.png::CompressedTexture2D::5094487661186692719::1706021303::1706021504::1::::<><>::
+40.png::CompressedTexture2D::1488520476156912121::1706021304::1706021504::1::::<><>::
+41.png::CompressedTexture2D::8517371466160167211::1706021304::1706021504::1::::<><>::
+42.png::CompressedTexture2D::7876513652207339433::1706021304::1706021504::1::::<><>::
+43.png::CompressedTexture2D::2139404117073404427::1706021304::1706021504::1::::<><>::
+44.png::CompressedTexture2D::7728101825708523098::1706021304::1706021504::1::::<><>::
+45.png::CompressedTexture2D::6232752689568858758::1706021305::1706021504::1::::<><>::
+46.png::CompressedTexture2D::8426117894807397542::1706021305::1706021504::1::::<><>::
+47.png::CompressedTexture2D::3602318732939888608::1706021305::1706021504::1::::<><>::
+48.png::CompressedTexture2D::7645326347536419615::1706021302::1706021504::1::::<><>::
+49.png::CompressedTexture2D::4698319940398136659::1706021302::1706021504::1::::<><>::
+50.png::CompressedTexture2D::2880260629818758191::1706021304::1706021504::1::::<><>::
+51.png::CompressedTexture2D::5679197514078072482::1706021305::1706021504::1::::<><>::
+52.png::CompressedTexture2D::1604899485664263426::1706021305::1706021504::1::::<><>::
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Small Text/White Bar/::1706021505
+1.png::CompressedTexture2D::3856893436139336042::1706021301::1706021504::1::::<><>::
+2.png::CompressedTexture2D::7521833699738658652::1706021301::1706021504::1::::<><>::
+3.png::CompressedTexture2D::3346201062233681450::1706021301::1706021504::1::::<><>::
+4.png::CompressedTexture2D::7481937719020134324::1706021301::1706021504::1::::<><>::
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Yellow Board/::1706021504
+1.png::CompressedTexture2D::37437768132429032::1706021310::1706021504::1::::<><>::
+2.png::CompressedTexture2D::110644830904248403::1706021310::1706021504::1::::<><>::
+3.png::CompressedTexture2D::5162122679424828580::1706021310::1706021504::1::::<><>::
+4.png::CompressedTexture2D::9214862261494199758::1706021309::1706021504::1::::<><>::
+5.png::CompressedTexture2D::328556658274235239::1706021309::1706021504::1::::<><>::
+6.png::CompressedTexture2D::549912336891522821::1706021310::1706021504::1::::<><>::
+7.png::CompressedTexture2D::1502222552485476653::1706021310::1706021504::1::::<><>::
+8.png::CompressedTexture2D::4742775180633209005::1706021309::1706021504::1::::<><>::
+9.png::CompressedTexture2D::5378750068719820885::1706021309::1706021504::1::::<><>::
+10.png::CompressedTexture2D::557024248583747181::1706021309::1706021504::1::::<><>::
+11.png::CompressedTexture2D::6055759291244859600::1706021309::1706021504::1::::<><>::
+12.png::CompressedTexture2D::5530260080595494928::1706021309::1706021504::1::::<><>::
+13.png::CompressedTexture2D::6886934164093887262::1706021309::1706021504::1::::<><>::
+14.png::CompressedTexture2D::2296853572142319346::1706021309::1706021504::1::::<><>::
+15.png::CompressedTexture2D::7924071924096119457::1706021309::1706021503::1::::<><>::
+16.png::CompressedTexture2D::7011793670653999156::1706021309::1706021503::1::::<><>::
+Yellow Board (guide).png::CompressedTexture2D::8032811645507499821::1706021310::1706021503::1::::<><>::
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Yellow Button/::1706021504
+1.png::CompressedTexture2D::5039375356619882660::1706021301::1706021503::1::::<><>::
+2.png::CompressedTexture2D::2498368753971246886::1706021301::1706021503::1::::<><>::
+3.png::CompressedTexture2D::7474303687525015163::1706021301::1706021503::1::::<><>::
+4.png::CompressedTexture2D::1979406580923083893::1706021301::1706021503::1::::<><>::
+5.png::CompressedTexture2D::2659288363714210650::1706021301::1706021503::1::::<><>::
+6.png::CompressedTexture2D::7932734873811091452::1706021301::1706021503::1::::<><>::
+7.png::CompressedTexture2D::1608695576073078274::1706021301::1706021503::1::::<><>::
+8.png::CompressedTexture2D::486455617322356114::1706021300::1706021503::1::::<><>::
+9.png::CompressedTexture2D::1094454157209557633::1706021300::1706021503::1::::<><>::
+10.png::CompressedTexture2D::5715499333040883103::1706021301::1706021503::1::::<><>::
+11.png::CompressedTexture2D::5675086291343453988::1706021301::1706021503::1::::<><>::
+12.png::CompressedTexture2D::8808710770009281013::1706021301::1706021503::1::::<><>::
+13.png::CompressedTexture2D::4898689831581571400::1706021301::1706021503::1::::<><>::
+14.png::CompressedTexture2D::3090117850584780649::1706021300::1706021503::1::::<><>::
+15.png::CompressedTexture2D::5783610981577692909::1706021300::1706021503::1::::<><>::
+16.png::CompressedTexture2D::4924612103720202596::1706021300::1706021504::1::::<><>::
+Yellow Button (guide).png::CompressedTexture2D::600220966714963809::1706021301::1706021504::1::::<><>::
+::res://sptites/Treasure Hunters/Wood and Paper UI/Sprites/Yellow Paper/::1706021504
+1.png::CompressedTexture2D::4329776713797253004::1706021309::1706021504::1::::<><>::
+2.png::CompressedTexture2D::6167542370057981898::1706021308::1706021504::1::::<><>::
+3.png::CompressedTexture2D::6306329500700840855::1706021308::1706021504::1::::<><>::
+4.png::CompressedTexture2D::5003495740194568726::1706021308::1706021504::1::::<><>::
+5.png::CompressedTexture2D::3252381446754480333::1706021308::1706021504::1::::<><>::
+6.png::CompressedTexture2D::5291388406562579540::1706021308::1706021504::1::::<><>::
+7.png::CompressedTexture2D::6152472305642138575::1706021308::1706021504::1::::<><>::
+8.png::CompressedTexture2D::4012975895228944067::1706021308::1706021504::1::::<><>::
+9.png::CompressedTexture2D::400642569822840267::1706021308::1706021504::1::::<><>::
+10.png::CompressedTexture2D::6602259091905411580::1706021308::1706021504::1::::<><>::
+11.png::CompressedTexture2D::5297575131011319999::1706021308::1706021504::1::::<><>::
+12.png::CompressedTexture2D::2396428526341445004::1706021308::1706021503::1::::<><>::
+13.png::CompressedTexture2D::1951238230625549975::1706021308::1706021503::1::::<><>::
+14.png::CompressedTexture2D::14371335490627229::1706021308::1706021503::1::::<><>::
+15.png::CompressedTexture2D::3640385078910601350::1706021308::1706021503::1::::<><>::
+16.png::CompressedTexture2D::1566771012932697001::1706021308::1706021503::1::::<><>::
+Yellow Paper (guide).png::CompressedTexture2D::2230331870413087036::1706021308::1706021503::1::::<><>::
+::res://sptites/__MACOSX/::1706021316
+::res://sptites/__MACOSX/Treasure Hunters/::1706021317
+::res://sptites/__MACOSX/Treasure Hunters/Captain Clown Nose/::1706021317
+::res://sptites/__MACOSX/Treasure Hunters/Palm Tree Island/::1706021317
+::res://sptites/__MACOSX/Treasure Hunters/Pirate Ship/::1706021317
+::res://sptites/__MACOSX/Treasure Hunters/The Crusty Crew/::1706021317
+::res://sptites/__MACOSX/Treasure Hunters/Wood and Paper UI/::1706021317
+::res://sptites/__MACOSX/Treasure Hunters/Wood and Paper UI/Aseprite/::1706021317
