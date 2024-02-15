@@ -1,4 +1,4 @@
-[gd_scene load_steps=15 format=3 uid="uid://c60lt8l2gkyt0"]
+[gd_scene load_steps=19 format=3 uid="uid://c60lt8l2gkyt0"]
 
 [ext_resource type="Texture2D" uid="uid://bu2hpmi8l65ku" path="res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Background/BG Image.png" id="1_nwwyd"]
 [ext_resource type="Texture2D" uid="uid://cal4niqa70ned" path="res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Terrain/Terrain (32x32).png" id="2_ci1u2"]
@@ -8,6 +8,10 @@
 [ext_resource type="Texture2D" uid="uid://dg3iddnggcl5l" path="res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Background/Additional Water.png" id="6_yt02r"]
 [ext_resource type="Texture2D" uid="uid://dnrufonw0cw8w" path="res://sptites/Treasure Hunters/Merchant Ship/Sprites/Barrel/Idle/1.png" id="7_r2oeg"]
 [ext_resource type="PackedScene" uid="uid://bdmc011n88j8b" path="res://Scenes/Interactable/checkpoint.tscn" id="8_fwl88"]
+[ext_resource type="PackedScene" uid="uid://c6jbgdh1f81s4" path="res://Scenes/Interactable/spikes.tscn" id="9_jktgf"]
+[ext_resource type="PackedScene" uid="uid://cx8hxjo45j3ki" path="res://Scenes/Interactable/coin.tscn" id="10_s5l6t"]
+[ext_resource type="Script" path="res://Scripts/UI/UiManager.gd" id="11_wjpk7"]
+[ext_resource type="Texture2D" uid="uid://bqpg602tq818v" path="res://sptites/Treasure Hunters/Pirate Treasure/Sprites/Gold Coin/01.png" id="12_swmov"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_n43l0"]
 texture = ExtResource("2_ci1u2")
@@ -694,5 +698,42 @@ layer_3/name = "Forground"
 layer_3/tile_data = PackedInt32Array(589841, 2, 1, 524306, 65538, 0, 589842, 65538, 1, 524307, 131074, 0, 589843, 131074, 1, 524308, 196610, 0, 589844, 196610, 1, 524309, 262146, 0, 589845, 262146, 1, 524310, 327682, 0, 589846, 327682, 1, 589847, 393218, 1, 458784, 2, 1, 393249, 65538, 0, 458785, 65538, 1, 393250, 131074, 0, 458786, 131074, 1, 393251, 196610, 0, 458787, 196610, 1, 393252, 262146, 0, 458788, 262146, 1, 393253, 327682, 0, 458789, 327682, 1, 458790, 393218, 1, 720905, 2, 1, 655370, 65538, 0, 720906, 65538, 1, 655371, 131074, 0, 720907, 131074, 1, 655372, 196610, 0, 720908, 196610, 1, 655373, 262146, 0, 720909, 262146, 1, 655374, 327682, 0, 720910, 327682, 1, 720911, 393218, 1, 1310722, 6, 0, 1376258, 6, 1, 1310723, 65542, 0, 1376259, 65542, 1, 1310724, 6, 0, 1376260, 6, 1, 1310725, 65542, 0, 1376261, 65542, 1, 1310726, 6, 0, 1376262, 6, 1, 1310727, 65542, 0, 1376263, 65542, 1, 1310728, 6, 0, 1376264, 6, 1, 1310729, 65542, 0, 1376265, 65542, 1, 1310730, 6, 0, 1376266, 6, 1, 1310731, 65542, 0, 1376267, 65542, 1, 1310732, 6, 0, 1376268, 6, 1, 1310733, 65542, 0, 1376269, 65542, 1, 1310734, 6, 0, 1376270, 6, 1, 1310735, 65542, 0, 1376271, 65542, 1, 1310736, 6, 0, 1376272, 6, 1, 1310737, 65542, 0, 1376273, 65542, 1, 1310738, 6, 0, 1376274, 6, 1, 1310739, 65542, 0, 1376275, 65542, 1, 1310740, 6, 0, 1376276, 6, 1, 1310741, 65542, 0, 1376277, 65542, 1, 1310742, 6, 0, 1376278, 6, 1, 1310743, 65542, 0, 1376279, 65542, 1, 1310744, 6, 0, 1376280, 6, 1, 1310745, 65542, 0, 1376281, 65542, 1, 1310746, 6, 0, 1376282, 6, 1, 1310747, 65542, 0, 1376283, 65542, 1, 1310748, 6, 0, 1376284, 6, 1, 1310749, 65542, 0, 1376285, 65542, 1, 1310750, 6, 0, 1376286, 6, 1, 1310751, 65542, 0, 1376287, 65542, 1, 1310752, 6, 0, 1376288, 6, 1, 1310753, 65542, 0, 1376289, 65542, 1, 1310754, 6, 0, 1376290, 6, 1, 1310755, 65542, 0, 1376291, 65542, 1, 1310756, 6, 0, 1376292, 6, 1, 1310757, 65542, 0, 1376293, 65542, 1, 1310758, 6, 0, 1376294, 6, 1, 1310759, 65542, 0, 1376295, 65542, 1, 1310760, 6, 0, 1376296, 6, 1, 1310761, 65542, 0, 1376297, 65542, 1, 1310762, 6, 0, 1376298, 6, 1, 1310763, 65542, 0, 1376299, 65542, 1, 1310764, 6, 0, 1376300, 6, 1, 1310765, 65542, 0, 1376301, 65542, 1, 1310766, 6, 0, 1376302, 6, 1, 1310767, 65542, 0, 1376303, 65542, 1, 1310768, 6, 0, 1376304, 6, 1, 1310769, 65542, 0, 1376305, 65542, 1, 1310770, 6, 0, 1376306, 6, 1, 1310771, 65542, 0, 1376307, 65542, 1)
 
 [node name="Checkpoint" parent="." instance=ExtResource("8_fwl88")]
-position = Vector2(247, 242)
-spawnpoints = false
+position = Vector2(140, 204)
+
+[node name="Checkpoint2" parent="." instance=ExtResource("8_fwl88")]
+position = Vector2(530, 195)
+spawnpoint = false
+
+[node name="Spikes" parent="." instance=ExtResource("9_jktgf")]
+position = Vector2(96, 241)
+
+[node name="CoinHolder" type="Node2D" parent="."]
+
+[node name="Coin" parent="CoinHolder" instance=ExtResource("10_s5l6t")]
+position = Vector2(156, 278)
+
+[node name="Coin2" parent="CoinHolder" instance=ExtResource("10_s5l6t")]
+position = Vector2(263, 257)
+
+[node name="Coin3" parent="CoinHolder" instance=ExtResource("10_s5l6t")]
+position = Vector2(350, 241)
+
+[node name="UiManager" type="CanvasLayer" parent="."]
+script = ExtResource("11_wjpk7")
+
+[node name="CoinIcon" type="TextureRect" parent="UiManager"]
+offset_left = 325.0
+offset_top = 98.0
+offset_right = 348.0
+offset_bottom = 121.0
+texture = ExtResource("12_swmov")
+
+[node name="CoinDisplay" type="Label" parent="UiManager"]
+offset_left = 353.0
+offset_top = 98.0
+offset_right = 393.0
+offset_bottom = 121.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_colors/font_shadow_color = Color(0.952941, 0.439216, 0.4, 1)
+text = "0
+"

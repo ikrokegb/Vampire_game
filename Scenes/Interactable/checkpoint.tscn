@@ -38,6 +38,7 @@ _data = {
 
 [node name="Checkpoint" type="Node2D"]
 script = ExtResource("1_8m0xs")
+spawnpoint = true
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 texture = ExtResource("1_hqxyl")

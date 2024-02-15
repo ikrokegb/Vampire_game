@@ -1,8 +1,13 @@
-AnimationPlayer
+Label
+TextureRect
+CanvasLayer
+Node2D
 CollisionShape2D
 Area2D
+AnimationPlayer
 Sprite2D
-TextureRect
+CollisionPolygon2D
+Polygon2D
 TileMap
 CharacterBody2D
 StaticBody2D

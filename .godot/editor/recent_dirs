@@ -1,6 +1,7 @@
+res://Scripts/UI
+res://Scenes/Interactable
 res://Scripts/Core
 res://Scripts/Interactable
-res://Scenes/Interactable
 res://Scenes/Entities
 res://Scripts/Player
 res://Scenes/WorldScenes
