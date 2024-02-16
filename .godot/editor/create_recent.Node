@@ -1,9 +1,9 @@
+CollisionShape2D
+Area2D
 Label
 TextureRect
 CanvasLayer
 Node2D
-CollisionShape2D
-Area2D
 AnimationPlayer
 Sprite2D
 CollisionPolygon2D

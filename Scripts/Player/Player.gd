@@ -9,8 +9,14 @@ class_name Player
 
 var gravity = ProjectSettings.get_setting("physics/2d/default_gravity")
 
+@export var attacking = false
+
 func _ready():
 	GameManager.player = self
+	
+func _process(delta):
+	if Input.is_action_just_pressed("attack"):
+		attack()
 
 func _physics_process(delta):
 	
@@ -37,17 +43,26 @@ func _physics_process(delta):
 	
 	if position.y >= 600:
 		die()
+		
+func attack():
+	var overlapping_objects = $AttackArea.get_overlapping_areas()
+	for area in overlapping_objects:
+		var parent = area.get_parent()
+		print(parent.name)
+	attacking = true
+	animation.play("Attack")
 	
 func update_animation():
-	if velocity.x != 0:
-		animation.play("Run")
-	else:
-		animation.play("Idle")
+	if !attacking:
+		if velocity.x != 0:
+			animation.play("Run")
+		else:
+			animation.play("Idle")
 	
-	if velocity.y < 0:
-		animation.play("Jump")
-	if velocity.y > 0:
-		animation.play("Fall")
+		if velocity.y < 0:
+			animation.play("Jump")
+		if velocity.y > 0:
+			animation.play("Fall")
 		
 func die():
 	GameManager.respawn_player()

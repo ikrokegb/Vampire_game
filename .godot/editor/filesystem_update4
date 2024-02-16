@@ -4,3 +4,4 @@ res://Scenes/Entities/player.tscn
 res://Scenes/Interactable/checkpoint.tscn
 res://Scenes/Interactable/spikes.tscn
 res://Scenes/Interactable/coin.tscn
+res://Scripts/Player/Player.gd
