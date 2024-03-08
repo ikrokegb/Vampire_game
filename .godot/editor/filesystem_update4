@@ -1,7 +1,8 @@
 res://Scenes/WorldScenes/level_one.tscn
-res://Scripts/UI/UiManager.gd
 res://Scenes/Entities/player.tscn
 res://Scenes/Interactable/checkpoint.tscn
 res://Scenes/Interactable/spikes.tscn
 res://Scenes/Interactable/coin.tscn
+res://Scenes/Enemies/enemy.tscn
 res://Scripts/Player/Player.gd
+res://Scripts/Enemies/enemy.gd
