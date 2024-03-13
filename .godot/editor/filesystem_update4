@@ -7,3 +7,5 @@ res://Scenes/Interactable/coin.tscn
 res://Scenes/Enemies/enemy.tscn
 res://Scenes/Interactable/falling_spikes.tscn
 res://Scripts/Interactable/falling_spikes.gd
+res://Scripts/Interactable/jamp_pad.gd
+res://Scenes/Interactable/jamp_pad.tscn
