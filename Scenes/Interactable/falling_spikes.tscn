@@ -1,0 +1,72 @@
+[gd_scene load_steps=6 format=3 uid="uid://bmm1ntexhppt1"]
+
+[ext_resource type="Script" path="res://Scripts/Interactable/falling_spikes.gd" id="1_dfyay"]
+[ext_resource type="Texture2D" uid="uid://q2l11kaoj35w" path="res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Objects/Spikes/Spikes.png" id="1_xw0h5"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_knv5x"]
+size = Vector2(24, 95)
+
+[sub_resource type="Animation" id="Animation_cf1u8"]
+resource_name = "Shake"
+length = 0.2
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Sprite2D:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.1, 0.2, 0.3),
+"transitions": PackedFloat32Array(1, 1, 1, 1),
+"update": 0,
+"values": [Vector2(0, 0), Vector2(4, 0), Vector2(-4, 0), Vector2(4, 0)]
+}
+tracks/1/type = "method"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath(".")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"values": [{
+"args": [],
+"method": &"fall"
+}]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_q425p"]
+_data = {
+"Shake": SubResource("Animation_cf1u8")
+}
+
+[node name="FallingSpikes" type="Node2D"]
+script = ExtResource("1_dfyay")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+rotation = 3.14159
+texture = ExtResource("1_xw0h5")
+
+[node name="Hitbox" type="Area2D" parent="."]
+monitorable = false
+
+[node name="CollisionShape2D" type="CollisionPolygon2D" parent="Hitbox"]
+position = Vector2(-0.146975, 0)
+scale = Vector2(0.993952, 1)
+polygon = PackedVector2Array(-13, -16, -15, -6, -12, -1, -4, -3, 5, 0, 13, -5, 16, -12, 14, -16, 2, -16)
+
+[node name="PlayerDetect" type="Area2D" parent="."]
+monitorable = false
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="PlayerDetect"]
+position = Vector2(0, 33.5)
+shape = SubResource("RectangleShape2D_knv5x")
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+libraries = {
+"": SubResource("AnimationLibrary_q425p")
+}
+
+[connection signal="area_entered" from="Hitbox" to="." method="_on_hitbox_area_entered"]
+[connection signal="area_entered" from="PlayerDetect" to="." method="_on_player_detect_area_entered"]

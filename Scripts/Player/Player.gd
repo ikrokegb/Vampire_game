@@ -76,5 +76,7 @@ func update_animation():
 func die():
 	GameManager.respawn_player()
 
-
+func _input(event):
+	if event.is_action_pressed("down"):
+		position.y += 5
 
