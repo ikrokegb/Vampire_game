@@ -3,14 +3,15 @@ extends Node2D
 @export var speed = 100.0
 var current_speed = 0.0
 
+@onready var spawn_pos = global_position # убрать
 
 func _physics_process(delta):
 	position.y += current_speed * delta
 
 func _on_hitbox_area_entered(area):
 	if area.get_parent() is Player:
-		area.get_parent().die()
-		queue_free()
+		area.get_parent().take_damage(1)
+		reset()
 
 
 func _on_player_detect_area_entered(area):
@@ -19,6 +20,10 @@ func _on_player_detect_area_entered(area):
 
 func fall():
 	current_speed = speed
+	reset()
+	
+func reset():
 	await get_tree().create_timer(3).timeout
-	queue_free()
+	position = spawn_pos # убрать возобновление - заменить на queue_free() в хитбоксе
+	current_speed = 0
 	

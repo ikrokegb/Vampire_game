@@ -11,11 +11,14 @@ var gravity = ProjectSettings.get_setting("physics/2d/default_gravity")
 
 @export var attacking = false
 
+var max_health = 2
+var health = 0
+var can_take_damage = true
+
 func _ready():
+	health = max_health
 	GameManager.player = self
 	
-
-
 func _physics_process(delta):
 	
 	if Input.is_action_pressed("left"):
@@ -73,9 +76,23 @@ func update_animation():
 		if velocity.y > 0:
 			animation.play("Fall")
 		
+func take_damage(damage_amount : int):
+	if can_take_damage:
+		iframes()
+		health -= damage_amount
+		
+		if health <= 0:
+			die()
+	
+
 func die():
 	GameManager.respawn_player()
 
+func iframes():
+	can_take_damage = false
+	await get_tree().create_timer(1).timeout
+	can_take_damage = true
+	
 func _input(event):
 	if event.is_action_pressed("down"):
 		position.y += 5
