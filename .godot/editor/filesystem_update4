@@ -15,3 +15,5 @@ res://Scenes/Interactable/health_up.tscn
 res://Scripts/Interactable/health_up.gd
 res://Scenes/Interactable/invisible_platform.tscn
 res://Scripts/Interactable/invisible_platform.gd
+res://Scenes/Interactable/moving_platform.tscn
+res://Scripts/Interactable/moving_platform.gd
