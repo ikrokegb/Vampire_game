@@ -13,3 +13,5 @@ res://Scripts/Interactable/spikes.gd
 res://Scripts/Enemies/enemy.gd
 res://Scenes/Interactable/health_up.tscn
 res://Scripts/Interactable/health_up.gd
+res://Scenes/Interactable/invisible_platform.tscn
+res://Scripts/Interactable/invisible_platform.gd

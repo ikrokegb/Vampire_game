@@ -1,4 +1,4 @@
-[gd_scene load_steps=23 format=3 uid="uid://c60lt8l2gkyt0"]
+[gd_scene load_steps=24 format=3 uid="uid://c60lt8l2gkyt0"]
 
 [ext_resource type="Texture2D" uid="uid://bu2hpmi8l65ku" path="res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Background/BG Image.png" id="1_nwwyd"]
 [ext_resource type="Texture2D" uid="uid://cal4niqa70ned" path="res://sptites/Treasure Hunters/Palm Tree Island/Sprites/Terrain/Terrain (32x32).png" id="2_ci1u2"]
@@ -16,6 +16,7 @@
 [ext_resource type="PackedScene" uid="uid://bmm1ntexhppt1" path="res://Scenes/Interactable/falling_spikes.tscn" id="14_acw4f"]
 [ext_resource type="PackedScene" uid="uid://54tvuuqmh8t6" path="res://Scenes/Interactable/jamp_pad.tscn" id="15_dpbb0"]
 [ext_resource type="PackedScene" uid="uid://cjq63khfwtr3v" path="res://Scenes/Interactable/health_up.tscn" id="16_tv4ju"]
+[ext_resource type="PackedScene" uid="uid://dw1ub42w1jwgb" path="res://Scenes/Interactable/invisible_platform.tscn" id="17_vrnkg"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_n43l0"]
 texture = ExtResource("2_ci1u2")
@@ -753,3 +754,6 @@ position = Vector2(239, 280)
 
 [node name="HealthUp" parent="." instance=ExtResource("16_tv4ju")]
 position = Vector2(238, 169)
+
+[node name="InvisiblePlatform" parent="." instance=ExtResource("17_vrnkg")]
+position = Vector2(306, 234)

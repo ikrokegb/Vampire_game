@@ -1,7 +1,8 @@
+AnimationPlayer
 CollisionShape2D
 Area2D
 Sprite2D
-AnimationPlayer
+StaticBody2D
 CollisionPolygon2D
 RayCast2D
 CharacterBody2D
@@ -11,4 +12,3 @@ CanvasLayer
 Node2D
 Polygon2D
 TileMap
-StaticBody2D
